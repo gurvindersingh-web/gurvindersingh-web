@@ -18,15 +18,15 @@
 
 ---
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 I'm a full-stack developer who lives in the Linux terminal and automates everything worth automating. I build end-to-end applications — from React frontends to Spring Boot backends — and wire them together with n8n pipelines and AI workflows that do the repetitive work so I don't have to. Most of my projects start with a question I couldn't find a good answer to, which is usually the right reason to build something.
 
 <br/>
 
----
-
-## Current Focus
-
-<div align="center">
+**Current Focus**
 
 ![SaaS](https://img.shields.io/badge/SaaS-bd93f9?style=flat-square&labelColor=21212e)
 &nbsp;
@@ -38,7 +38,14 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 &nbsp;
 ![Android](https://img.shields.io/badge/Android-6272a4?style=flat-square&labelColor=21212e)
 
-</div>
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
