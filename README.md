@@ -244,6 +244,16 @@ Spatiotemporal climate anomaly detector with Leaflet maps, Open-Meteo data feeds
   <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=179332153&image_size=auto" width="48%" alt="Currently Working On"/>
 </a>
 
+<br/><br/>
+
+<a href="https://ossinsight.io/analyze/gurvindersingh-web" target="_blank">
+  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=179332153&image_size=auto&color_scheme=dark" width="48%" alt="User Stats Dashboard"/>
+</a>
+&nbsp;
+<a href="https://ossinsight.io/analyze/gurvindersingh-web" target="_blank">
+  <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=179332153&image_size=auto&color_scheme=dark" width="48%" alt="Currently Working On"/>
+</a>
+
 </div>
 
 <br/>
