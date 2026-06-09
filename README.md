@@ -270,23 +270,8 @@
 
 </div>
 
----
 
-## 🌐 3D Contribution Graph
 
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/profile-3d-contrib/profile-customize.svg"
-  width="100%"
-  alt="3D Contribution Graph — Dracula"
-/>
-
-> 🟣 Dracula-themed 3D contribution graph · Auto-regenerates every 18 hours via GitHub Actions.
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
