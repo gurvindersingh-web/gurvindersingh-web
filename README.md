@@ -51,11 +51,11 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 
 ---
 
-## ⚡ Active Status
+## Active Status
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=bd93f9&center=true&vCenter=true&width=680&lines=%F0%9F%9B%A0%EF%B8%8F+Building+SaaS+%26+Web+Apps+(React+19+%2B+Spring+Boot);%F0%9F%A4%96+Engineering+AI+workflows+%26+n8n+automation+pipelines;%F0%9F%90%A7+Customizing+Hyprland+dotfiles+%26+Linux+environments;%F0%9F%93%B1+Hardening+Android+%26+coding+ESP32+firmware" alt="Active Status Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=bd93f9&center=true&vCenter=true&width=680&lines=Building+SaaS+%26+Web+Apps+(React+19+%2B+Spring+Boot);Engineering+AI+workflows+%26+n8n+automation+pipelines;Customizing+Hyprland+dotfiles+%26+Linux+environments;Hardening+Android+%26+coding+ESP32+firmware" alt="Active Status Typing SVG"/>
 
 </div>
 
@@ -190,20 +190,14 @@ Spatiotemporal climate anomaly detector with Leaflet maps, Open-Meteo data feeds
 
 ---
 
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=gurvindersingh-web&theme=dracula&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+## Achievements & Milestones
 
 <br/>
 
-- 🛡️ **Network Security Expert:** Architected **WiFi Deauth Defender**, creating a custom 7-signal threat analysis engine.
-- 🤖 **Automation Champion:** Configured complex agentic flows using **n8n & LLMs** that automate code audits, notifications, and dev tasks.
-- 🚀 **Full-Stack Deliverer:** Successfully built and hosted **Verilancer**, a freelance portal integrating JWT/RBAC security and WebSockets.
-- 🐧 **Linux Dotfiles Architect:** Deployed fully customized, reproducible window manager setups based on **Hyprland** with automated script wrappers.
+- <img src="https://img.shields.io/badge/Security-bd93f9?style=flat-square&logo=gitbook&logoColor=21212e" valign="middle"/> **Network Security Expert:** Architected **WiFi Deauth Defender**, creating a custom 7-signal threat analysis engine.
+- <img src="https://img.shields.io/badge/n8n-ff79c6?style=flat-square&logo=n8n&logoColor=21212e" valign="middle"/> **Automation Champion:** Configured complex agentic flows using **n8n & LLMs** that automate code audits, notifications, and dev tasks.
+- <img src="https://img.shields.io/badge/Full_Stack-8be9fd?style=flat-square&logo=react&logoColor=21212e" valign="middle"/> **Full-Stack Deliverer:** Successfully built and hosted **Verilancer**, a freelance portal integrating JWT/RBAC security and WebSockets.
+- <img src="https://img.shields.io/badge/Linux-6272a4?style=flat-square&logo=linux&logoColor=21212e" valign="middle"/> **Linux Dotfiles Architect:** Deployed fully customized, reproducible window manager setups based on **Hyprland** with automated script wrappers.
 
 <br/>
 
