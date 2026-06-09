@@ -202,13 +202,6 @@ Spatiotemporal climate anomaly detector with Leaflet maps, Open-Meteo data feeds
   alt="Top Languages"
 />
 
-<br/><br/>
-
-<img
-  src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/profile-3d-contrib/profile-dracula-animate.svg"
-  width="96%"
-  alt="3D Contribution Graph"
-/>
 
 </div>
 
