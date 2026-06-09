@@ -1,9 +1,9 @@
 {
   "githubUserName": "gurvindersingh-web",
   "backgroundColor": "#0d1117",
-  "foregroundColor": "#6272a4",
-  "contributionColorArray": ["#282a36", "#44475a", "#6272a4", "#bd93f9", "#ff79c6"],
-  "quarterPipeColor": "#282a36",
-  "normalColor": "#6272a4",
-  "guideColor": "#44475a80"
+  "foregroundColor": "#f8f8f2",
+  "contributionColorArray": ["#21262d", "#6272a4", "#9580ff", "#bd93f9", "#ff79c6"],
+  "quarterPipeColor": "#44475a",
+  "normalColor": "#161b22",
+  "guideColor": "#30363d"
 }
