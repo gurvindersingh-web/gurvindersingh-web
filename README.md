@@ -207,25 +207,6 @@ Spatiotemporal climate anomaly detector with Leaflet maps, Open-Meteo data feeds
 
 ---
 
-## Roadmap — 2025 / 2026
-
-<div align="center">
-
-| Status | Area | Focus |
-|:------:|:-----|:------|
-| `ACTIVE` | Operating Systems | Linux Kernel · Memory Management · Scheduling |
-| `ACTIVE` | System Design | HLD/LLD · Distributed Systems · Kafka · Redis |
-| `ACTIVE` | Network Security | Scapy · Wireshark · iptables · Linux Hardening |
-| `QUEUED` | AI & Automation | n8n · LangChain · Agentic Workflows · RAG |
-| `QUEUED` | MLOps | Vector DBs · Fine-tuning · LLM Deployment |
-| `ONGOING` | Java & Spring | Spring Boot · JVM Internals · Performance |
-
-</div>
-
-<br/>
-
----
-
 ## Connect
 
 <div align="center">
