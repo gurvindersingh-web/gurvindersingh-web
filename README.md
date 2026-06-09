@@ -277,13 +277,12 @@
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/profile-gitblock.svg"
+  src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/profile-3d-contrib/profile-customize.svg"
   width="100%"
   alt="3D Contribution Graph — Dracula"
 />
 
 > 🟣 Dracula-themed 3D contribution graph · Auto-regenerates every 18 hours via GitHub Actions.
-> If the image shows broken, go to [Actions](https://github.com/gurvindersingh-web/gurvindersingh-web/actions) → **🌐 GitHub Profile 3D Contrib** → **Run workflow**.
 
 </div>
 
