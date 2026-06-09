@@ -29,45 +29,45 @@
 
 ## 👤 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="57%" valign="top">
+<td width="55%" valign="top">
 
-```bash
-$ cat about.yaml
-```
-
-```yaml
-name:       "Gurvinder Singh"
-role:       "Full-Stack Dev & Automation Engineer"
-university: "Lovely Professional University, India 🇮🇳"
-
-currently_building:
-  - "AI-powered automation pipelines (n8n + LLMs)"
-  - "Network security monitoring & alerting tools"
-
-learning:
-  - "System Design & Distributed Systems"
-  - "MLOps & LLM Engineering"
-  - "Advanced n8n Agentic Workflows"
-
-ask_me_about:
-  - "React · Node.js · Java · FastAPI · Spring Boot"
-  - "n8n workflows · Docker · Linux internals"
-  - "Network security · Scapy · WiFi hacking"
-
-fun_fact:   "I automate everything I do more than twice ⚡"
-status:     "Open to freelance & open-source collab ✅"
-```
-
-</td>
-<td width="43%" align="center" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=donut&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&langs_count=6" width="290" alt="Top Languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2200&pause=600&color=50FA7B&vCenter=true&width=460&lines=%24+whoami;%E2%86%92+Gurvinder+Singh+%7C+Full-Stack+Dev;%24+cat+status.txt;%E2%86%92+Building+%E2%80%A2+Learning+%E2%80%A2+Automating+%E2%80%A2+Hacking;%24+echo+%24LOCATION;%E2%86%92+India+%F0%9F%87%AE%F0%9F%87%B3+%7C+LPU+%E2%80%94+CSE+%F0%9F%8E%93" alt="Terminal Typing"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=gurvindersingh-web&theme=dracula&no-frame=true&no-bg=true&row=1&column=3&margin-w=6" width="290" alt="Mini Trophies"/>
+**🔭 Currently Building**
+- 🤖 AI automation pipelines with **n8n + LLMs**
+- 🛡️ Network security monitoring & real-time alerting
+- 🌐 Full-stack apps with **React + Spring Boot / FastAPI**
+
+**🌱 Currently Learning**
+- 📐 System Design · Distributed Systems · Kafka · Redis
+- 🧠 MLOps · Vector DBs · RAG · LLM fine-tuning
+- ⚡ Advanced n8n Agentic Workflows
+
+**💬 Ask me about**
+
+`React` `Node.js` `Java` `FastAPI` `Spring Boot` `n8n` `Docker` `Linux` `Scapy` `WiFi Security`
+
+**⚡ Fun fact**
+> I automate everything I do more than twice — including this README 😄
+
+<br/>
+
+![Available](https://img.shields.io/badge/🟢_Available-Freelance_%26_Collab-50fa7b?style=flat-square&labelColor=282a36)
+![Location](https://img.shields.io/badge/📍_India-LPU_CSE-bd93f9?style=flat-square&labelColor=282a36)
+![Focus](https://img.shields.io/badge/⚡_Focus-AI_%26_Automation-ff79c6?style=flat-square&labelColor=282a36)
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" style="border-radius:12px"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=donut-vertical&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&langs_count=7&card_width=300" width="300" alt="Top Languages"/>
 
 </td>
 </tr>
