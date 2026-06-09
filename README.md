@@ -27,7 +27,7 @@
 
 ---
 
-## 👤 About Me
+## ◈ About Me
 
 <table width="100%">
 <tr>
@@ -37,28 +37,28 @@
 
 <br/>
 
-**🔭 Currently Building**
-- 🤖 AI automation pipelines with **n8n + LLMs**
-- 🛡️ Network security monitoring & real-time alerting
-- 🌐 Full-stack apps with **React + Spring Boot / FastAPI**
+**▸ Currently Building**
+- → AI automation pipelines with **n8n + LLMs**
+- → Network security monitoring & real-time alerting
+- → Full-stack apps with **React + Spring Boot / FastAPI**
 
-**🌱 Currently Learning**
-- 📐 System Design · Distributed Systems · Kafka · Redis
-- 🧠 MLOps · Vector DBs · RAG · LLM fine-tuning
-- ⚡ Advanced n8n Agentic Workflows
+**▸ Currently Learning**
+- → System Design · Distributed Systems · Kafka · Redis
+- → MLOps · Vector DBs · RAG · LLM fine-tuning
+- → Advanced n8n Agentic Workflows
 
-**💬 Ask me about**
+**▸ Ask me about**
 
 `React` `Node.js` `Java` `FastAPI` `Spring Boot` `n8n` `Docker` `Linux` `Scapy` `WiFi Security`
 
-**⚡ Fun fact**
-> I automate everything I do more than twice — including this README 😄
+**▸ Fun fact**
+> I automate everything I do more than twice — including this README.
 
 <br/>
 
-![Available](https://img.shields.io/badge/🟢_Available-Freelance_%26_Collab-50fa7b?style=flat-square&labelColor=282a36)
-![Location](https://img.shields.io/badge/📍_India-LPU_CSE-bd93f9?style=flat-square&labelColor=282a36)
-![Focus](https://img.shields.io/badge/⚡_Focus-AI_%26_Automation-ff79c6?style=flat-square&labelColor=282a36)
+![Available](https://img.shields.io/badge/AVAILABLE-Freelance_%26_Collab-50fa7b?style=flat-square&labelColor=282a36)
+![Location](https://img.shields.io/badge/LOCATION-India_%7C_LPU-bd93f9?style=flat-square&labelColor=282a36)
+![Focus](https://img.shields.io/badge/FOCUS-AI_%26_Automation-ff79c6?style=flat-square&labelColor=282a36)
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -76,7 +76,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## ◈ Tech Arsenal
 
 <div align="center">
 
@@ -116,7 +116,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## ◈ Featured Projects
 
 <div align="center">
 <table>
@@ -124,12 +124,12 @@
 
 <td width="50%" valign="top">
 
-### 🛡️ WiFi Deauth Defender
+### ◆ WiFi Deauth Defender
 > Real-time WiFi deauth attack detector — 7-signal heuristic engine, EMA adaptive baselines & AI-powered alerting
 
-- ⚡ 7-signal threat heuristic detection engine
-- 📊 EMA adaptive detection baselines
-- 🔔 Live dashboard + n8n AI alert pipeline
+- → 7-signal threat heuristic detection engine
+- → EMA adaptive detection baselines
+- → Live dashboard + n8n AI alert pipeline
 
 **[→ View Repository](https://github.com/gurvindersingh-web/deauth-defender)**
 
@@ -144,12 +144,12 @@
 
 <td width="50%" valign="top">
 
-### 🌐 Verilancer
+### ◆ Verilancer
 > Full-stack freelance marketplace — JWT auth, real-time WebSocket chat & physics-based animated UI
 
-- 🔐 JWT auth + role-based access control
-- 💬 WebSocket real-time bidirectional chat
-- 🎨 GSAP physics + Three.js 3D animations
+- → JWT auth + role-based access control
+- → WebSocket real-time bidirectional chat
+- → GSAP physics + Three.js 3D animations
 
 **[→ View Repository](https://github.com/gurvindersingh-web/verilancer)**
 
@@ -166,12 +166,12 @@
 
 <td width="50%" valign="top">
 
-### 🌍 SCAD
+### ◆ SCAD
 > Spatiotemporal climate anomaly detector — interactive maps & AI-generated explanations
 
-- 🗺️ Leaflet interactive map visualization
-- 📡 Real-time climate data via Open-Meteo
-- 🤖 Claude AI anomaly explanations via n8n
+- → Leaflet interactive map visualization
+- → Real-time climate data via Open-Meteo
+- → Claude AI anomaly explanations via n8n
 
 **[→ View Repository](https://github.com/gurvindersingh-web/scad)**
 
@@ -184,12 +184,12 @@
 
 <td width="50%" valign="top">
 
-### 🔐 SCIES
+### ◆ SCIES
 > OS kernel security simulator — 4-stage syscall pipeline: INIT → AUTHN → ACL → EXEC
 
-- 🔄 4-stage syscall security pipeline
-- 🎯 Visual security decision simulation
-- 📚 Educational kernel security modeling tool
+- → 4-stage syscall security pipeline
+- → Visual security decision simulation
+- → Educational kernel security modeling tool
 
 **[→ View Repository](https://github.com/gurvindersingh-web/scies)**
 
@@ -205,7 +205,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## ◈ GitHub Stats
 
 <div align="center">
 
@@ -256,24 +256,24 @@
 
 ---
 
-## 🌱 Roadmap — 2025 / 2026
+## ◈ Roadmap — 2025 / 2026
 
 <div align="center">
 
 | Status | Area | Focus |
 |:------:|:-----|:------|
-| 🔄 Active | AI & Agentic Automation | n8n · LangChain · Claude/OpenAI APIs |
-| 🔄 Active | System Design | Distributed Systems · HLD/LLD · Kafka · Redis |
-| 📌 Queued | MLOps & LLM Engineering | Vector DBs · RAG · Fine-tuning · Agents |
-| 📌 Queued | Performance Engineering | Profiling · CDN · Caching · Load Testing |
-| 🛡️ Ongoing | Network Security | Scapy · Wireshark · iptables · Linux Hardening |
+| `ACTIVE` | AI & Agentic Automation | n8n · LangChain · Claude/OpenAI APIs |
+| `ACTIVE` | System Design | Distributed Systems · HLD/LLD · Kafka · Redis |
+| `QUEUED` | MLOps & LLM Engineering | Vector DBs · RAG · Fine-tuning · Agents |
+| `QUEUED` | Performance Engineering | Profiling · CDN · Caching · Load Testing |
+| `ONGOING` | Network Security | Scapy · Wireshark · iptables · Linux Hardening |
 
 </div>
 
 
 
 
-## 📈 Contribution Activity
+## ◈ Contribution Activity
 
 <div align="center">
 
@@ -284,14 +284,14 @@
 
 ---
 
-## 🐍 Contribution Snake
+## ◈ Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake.svg">
-  <img alt="🐍 Snake eating my contributions" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg"/>
 </picture>
 
 > 🟣 Powered by [Platane/snk](https://github.com/Platane/snk) · Auto-regenerates every Sunday via GitHub Actions. Run the workflow manually from the [Actions tab](https://github.com/gurvindersingh-web/gurvindersingh-web/actions) to activate it.
@@ -300,7 +300,7 @@
 
 ---
 
-## 📬 Let's Connect
+## ◈ Let's Connect
 
 <div align="center">
 
@@ -324,7 +324,7 @@
 
 <br/><br/>
 
-> *"The best engineers aren't those who know the most — they're those who **build** the most."* ⚡
+> *"The best engineers aren't those who know the most — they're those who **build** the most."*
 
 <br/>
 
