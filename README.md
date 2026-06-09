@@ -51,6 +51,19 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 
 ---
 
+## ⚡ Active Status
+
+*What I am currently building, tweaking, and maintaining:*
+
+- 🛠️ **SaaS & Web Apps:** Engineering micro-SaaS tools and full-stack platforms using Spring Boot, FastAPI, React 19, and Tailwind CSS.
+- 🤖 **AI & Automation:** Creating autonomous agentic pipelines with n8n, LangChain, and Ollama to eliminate repetitive developer workflows.
+- 🐧 **Linux Customization:** Crafting optimized configurations for Hyprland, writing setup scripts, and customizing window managers.
+- 📱 **Android & Embedded:** Hardening Android systems and developing firmware integrations for ESP32 microcontrollers.
+
+<br/>
+
+---
+
 ## Tech Arsenal
 
 <div align="center">
@@ -173,6 +186,25 @@ Spatiotemporal climate anomaly detector with Leaflet maps, Open-Meteo data feeds
 </tr>
 </table>
 </div>
+
+<br/>
+
+---
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=gurvindersingh-web&theme=dracula&no-background=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+- 🛡️ **Network Security Expert:** Architected **WiFi Deauth Defender**, creating a custom 7-signal threat analysis engine.
+- 🤖 **Automation Champion:** Configured complex agentic flows using **n8n & LLMs** that automate code audits, notifications, and dev tasks.
+- 🚀 **Full-Stack Deliverer:** Successfully built and hosted **Verilancer**, a freelance portal integrating JWT/RBAC security and WebSockets.
+- 🐧 **Linux Dotfiles Architect:** Deployed fully customized, reproducible window manager setups based on **Hyprland** with automated script wrappers.
 
 <br/>
 
