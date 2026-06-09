@@ -53,12 +53,11 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 
 ## ⚡ Active Status
 
-*What I am currently building, tweaking, and maintaining:*
+<div align="center">
 
-- 🛠️ **SaaS & Web Apps:** Engineering micro-SaaS tools and full-stack platforms using Spring Boot, FastAPI, React 19, and Tailwind CSS.
-- 🤖 **AI & Automation:** Creating autonomous agentic pipelines with n8n, LangChain, and Ollama to eliminate repetitive developer workflows.
-- 🐧 **Linux Customization:** Crafting optimized configurations for Hyprland, writing setup scripts, and customizing window managers.
-- 📱 **Android & Embedded:** Hardening Android systems and developing firmware integrations for ESP32 microcontrollers.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=bd93f9&center=true&vCenter=true&width=680&lines=%F0%9F%9B%A0%EF%B8%8F+Building+SaaS+%26+Web+Apps+(React+19+%2B+Spring+Boot);%F0%9F%A4%96+Engineering+AI+workflows+%26+n8n+automation+pipelines;%F0%9F%90%A7+Customizing+Hyprland+dotfiles+%26+Linux+environments;%F0%9F%93%B1+Hardening+Android+%26+coding+ESP32+firmware" alt="Active Status Typing SVG"/>
+
+</div>
 
 <br/>
 
@@ -195,7 +194,7 @@ Spatiotemporal climate anomaly detector with Leaflet maps, Open-Meteo data feeds
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=gurvindersingh-web&theme=dracula&no-background=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=gurvindersingh-web&theme=dracula&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
