@@ -250,6 +250,18 @@
 
 ---
 
+## 🌐 3D Contribution Graph
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contribution Graph"/>
+
+> 🟣 Dracula-themed 3D contribution graph · Auto-regenerates every 18 hours via GitHub Actions.
+
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
