@@ -1,20 +1,25 @@
 <div align="center">
 
-<!-- ██████████████████████████████████ BANNER ██████████████████████████████████ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,35:1a0a40,70:5523a8,100:bd93f9&height=240&section=header&text=Gurvinder%20Singh&fontSize=74&fontColor=f8f8f2&animation=twinkling&fontAlignY=54&desc=Full-Stack%20Developer%20%C2%B7%20Automation%20Engineer%20%C2%B7%20Linux%20Enthusiast&descAlignY=76&descSize=19&descColor=cba6f7" alt="Gurvinder Singh"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,30:44475a,70:6272a4,100:bd93f9&height=220&section=header&text=Gurvinder%20Singh&fontSize=56&fontColor=f8f8f2&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Automation%20Engineer%20%7C%20Linux%20Enthusiast&descAlignY=56&descSize=18&descColor=bd93f9" width="100%" alt="Gurvinder Singh — Header Banner"/>
-
-<!-- ██████████████████████████████ TYPING ANIMATION ████████████████████████████ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=700&lines=Building+scalable+web+apps+%F0%9F%9A%80;Automating+workflows+with+n8n+%2B+AI+%F0%9F%A4%96;Java+%C2%B7+React+%C2%B7+Python+%C2%B7+Linux+%F0%9F%90%A7;%22Build+once%2C+automate+forever%22+%E2%9A%A1)](https://git.io/typing-svg)
-
+<!-- ░░░░░░░░░░░░░░░░░░░░ TYPING ░░░░░░░░░░░░░░░░░░░░ -->
 <br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=720&lines=%F0%9F%9A%80+Full-stack+apps+that+scale;%F0%9F%A4%96+n8n+%2B+AI+automation+pipelines;%E2%9A%A1+Java+%C2%B7+React+%C2%B7+Python+%C2%B7+FastAPI;%F0%9F%9B%A1%EF%B8%8F+Breaking+%26+hardening+Linux+systems;%F0%9F%92%A1+%22Build+once%2C+automate+forever%22" alt="Typing SVG"/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gurvindersingh-web&color=bd93f9&style=flat-square&label=Profile+Views)
-&nbsp;&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/gurvindersingh-web?label=Followers&style=flat-square&color=bd93f9&labelColor=44475a)](https://github.com/gurvindersingh-web?tab=followers)
-&nbsp;&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/gurvindersingh-web?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=f1fa8c&labelColor=44475a&label=Stars)](https://github.com/gurvindersingh-web)
+<!-- ░░░░░░░░░░░░░░░░░░░░ BADGES ░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://komarev.com/ghpvc/?username=gurvindersingh-web&color=bd93f9&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/gurvindersingh-web?tab=followers">
+  <img src="https://img.shields.io/github/followers/gurvindersingh-web?label=Followers&style=flat-square&color=bd93f9&labelColor=21212e" alt="Followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/gurvindersingh-web">
+  <img src="https://img.shields.io/github/stars/gurvindersingh-web?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=f1fa8c&labelColor=21212e&label=Stars" alt="Stars"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Collaborate-50fa7b?style=flat-square&logo=handshake&logoColor=000&labelColor=21212e" alt="Status"/>
 
 </div>
 
@@ -22,86 +27,89 @@
 
 ---
 
-## 🖥️ `whoami`
+## 👤 About Me
+
+<table>
+<tr>
+<td width="57%" valign="top">
 
 ```bash
-┌──(gurvinder㉿github)-[~]
-└─$ cat profile.txt
+$ cat about.yaml
 ```
 
-```
-╔══════════════════════════════════════════════════════════╗
-║        GURVINDER SINGH — DEVELOPER PROFILE               ║
-╠══════════════════════════════════════════════════════════╣
-║  Role     : Full-Stack Developer                         ║
-║             & Automation Engineer                        ║
-║  Location : India 🇮🇳                                  ║
-║  Focus    : Web Dev · REST APIs · AI Automation          ║
-║  Status   : Open to collaboration ✅                     ║
-╠══════════════════════════════════════════════════════════╣
-║  > "Build once, automate forever." ⚡                    ║
-╚══════════════════════════════════════════════════════════╝
+```yaml
+name:       "Gurvinder Singh"
+role:       "Full-Stack Dev & Automation Engineer"
+university: "Lovely Professional University, India 🇮🇳"
+
+currently_building:
+  - "AI-powered automation pipelines (n8n + LLMs)"
+  - "Network security monitoring & alerting tools"
+
+learning:
+  - "System Design & Distributed Systems"
+  - "MLOps & LLM Engineering"
+  - "Advanced n8n Agentic Workflows"
+
+ask_me_about:
+  - "React · Node.js · Java · FastAPI · Spring Boot"
+  - "n8n workflows · Docker · Linux internals"
+  - "Network security · Scapy · WiFi hacking"
+
+fun_fact:   "I automate everything I do more than twice ⚡"
+status:     "Open to freelance & open-source collab ✅"
 ```
 
-- 🎓 **CS Student** @ Lovely Professional University
-- 🔭 Currently building **AI-powered automation & network security tools**
-- 🌱 Diving deep into **System Design & MLOps**
-- ⚡ Constantly tinkering with **Linux internals & network security**
-- 🤝 Open to **freelance projects & open-source collaboration**
+</td>
+<td width="43%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=donut&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&langs_count=6" width="290" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=gurvindersingh-web&theme=dracula&no-frame=true&no-bg=true&row=1&column=3&margin-w=6" width="290" alt="Mini Trophies"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=282a36)
-![TypeScript](https://img.shields.io/badge/TypeScript-8be9fd?style=for-the-badge&logo=typescript&logoColor=282a36)
-![Python](https://img.shields.io/badge/Python-50fa7b?style=for-the-badge&logo=python&logoColor=282a36)
-![Java](https://img.shields.io/badge/Java-ffb86c?style=for-the-badge&logo=openjdk&logoColor=282a36)
-![CSS3](https://img.shields.io/badge/CSS3-bd93f9?style=for-the-badge&logo=css3&logoColor=282a36)
-![Bash](https://img.shields.io/badge/Bash-ff79c6?style=for-the-badge&logo=gnu-bash&logoColor=282a36)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-8be9fd?style=for-the-badge&logo=react&logoColor=282a36)
-![HTML5](https://img.shields.io/badge/HTML5-ffb86c?style=for-the-badge&logo=html5&logoColor=282a36)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-50fa7b?style=for-the-badge&logo=tailwind-css&logoColor=282a36)
-![Vite](https://img.shields.io/badge/Vite-bd93f9?style=for-the-badge&logo=vite&logoColor=282a36)
-![GSAP](https://img.shields.io/badge/GSAP-ff79c6?style=for-the-badge&logo=greensock&logoColor=282a36)
-![Three.js](https://img.shields.io/badge/Three.js-f8f8f2?style=for-the-badge&logo=three.js&logoColor=282a36)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-50fa7b?style=for-the-badge&logo=nodedotjs&logoColor=282a36)
-![Express](https://img.shields.io/badge/Express-f8f8f2?style=for-the-badge&logo=express&logoColor=282a36)
-![FastAPI](https://img.shields.io/badge/FastAPI-50fa7b?style=for-the-badge&logo=fastapi&logoColor=282a36)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-50fa7b?style=for-the-badge&logo=springboot&logoColor=282a36)
-![MySQL](https://img.shields.io/badge/MySQL-8be9fd?style=for-the-badge&logo=mysql&logoColor=282a36)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-bd93f9?style=for-the-badge&logo=postgresql&logoColor=282a36)
-![MongoDB](https://img.shields.io/badge/MongoDB-50fa7b?style=for-the-badge&logo=mongodb&logoColor=282a36)
-
-**Automation & DevOps**
-
-![n8n](https://img.shields.io/badge/n8n-ff79c6?style=for-the-badge&logo=n8n&logoColor=282a36)
-![Docker](https://img.shields.io/badge/Docker-8be9fd?style=for-the-badge&logo=docker&logoColor=282a36)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-bd93f9?style=for-the-badge&logo=github-actions&logoColor=282a36)
-![Linux](https://img.shields.io/badge/Linux-f1fa8c?style=for-the-badge&logo=linux&logoColor=282a36)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-ffb86c?style=for-the-badge&logo=cloudflare&logoColor=282a36)
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&rank_icon=github" alt="GitHub Stats"/>
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&langs_count=8" alt="Top Languages"/>
+<br/>
 
-<br/><br/>
+**› Languages**
 
-<img src="https://streak-stats.demolab.com?user=gurvindersingh-web&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=6272a4&stroke=44475a&sideNums=f8f8f2&currStreakNum=ff79c6&dates=6272a4" alt="GitHub Streak"/>
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,java,bash,css&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**› Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite,html,threejs&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**› Backend & Databases**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,postgres,mongodb,mysql&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**› DevOps, Automation & Tools**
+
+[![DevOps](https://skillicons.dev/icons?i=docker,githubactions,linux,cloudflare,git,github&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=fff&labelColor=21212e)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=000&labelColor=21212e)
+![Scapy](https://img.shields.io/badge/Scapy-009639?style=flat-square&logoColor=fff&labelColor=21212e)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=fff&labelColor=21212e)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&labelColor=21212e&logoColor=fff)
 
 </div>
 
@@ -110,31 +118,130 @@
 ## 🚀 Featured Projects
 
 <div align="center">
+<table>
+<tr>
 
-| 🔖 Project | 📝 Description | ⚙️ Stack |
-|:-----------|:--------------|:---------|
-| [**🛡️ WiFi Deauth Defender**](https://github.com/gurvindersingh-web/deauth-defender) | Real-time WiFi deauth attack detector — 7-signal heuristic engine, EMA adaptive baselines & AI-powered alerting | `Python` `FastAPI` `Scapy` `React` `n8n` `Docker` |
-| [**🌐 Verilancer**](https://github.com/gurvindersingh-web/verilancer) | Full-stack freelance marketplace with JWT auth, real-time WebSocket chat & physics-based animated UI | `React 19` `Spring Boot` `GSAP` `Three.js` `Tailwind` |
-| [**🌍 SCAD**](https://github.com/gurvindersingh-web/scad) | Spatiotemporal climate anomaly detector with interactive map visualization and AI-generated explanations | `React` `Leaflet` `Open-Meteo` `Claude AI` `n8n` |
-| [**🔐 SCIES**](https://github.com/gurvindersingh-web/scies) | OS kernel security simulator modeling a 4-stage syscall pipeline: INIT → AUTHN → ACL → EXEC | `React` `Vite` `Tailwind CSS` |
+<td width="50%" valign="top">
+
+### 🛡️ WiFi Deauth Defender
+> Real-time WiFi deauth attack detector — 7-signal heuristic engine, EMA adaptive baselines & AI-powered alerting
+
+- ⚡ 7-signal threat heuristic detection engine
+- 📊 EMA adaptive detection baselines
+- 🔔 Live dashboard + n8n AI alert pipeline
+
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=deauth-defender&theme=dracula&hide_border=true&bg_color=161b22&title_color=bd93f9&icon_color=ff79c6&text_color=8b949e)](https://github.com/gurvindersingh-web/deauth-defender)
+
+![Python](https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=50fa7b)
+![FastAPI](https://img.shields.io/badge/FastAPI-282a36?style=flat-square&logo=fastapi&logoColor=50fa7b)
+![Scapy](https://img.shields.io/badge/Scapy-282a36?style=flat-square&logoColor=8be9fd)
+![React](https://img.shields.io/badge/React-282a36?style=flat-square&logo=react&logoColor=8be9fd)
+![Docker](https://img.shields.io/badge/Docker-282a36?style=flat-square&logo=docker&logoColor=8be9fd)
+![n8n](https://img.shields.io/badge/n8n-282a36?style=flat-square&logo=n8n&logoColor=ff79c6)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Verilancer
+> Full-stack freelance marketplace — JWT auth, real-time WebSocket chat & physics-based animated UI
+
+- 🔐 JWT auth + role-based access control
+- 💬 WebSocket real-time bidirectional chat
+- 🎨 GSAP physics + Three.js 3D animations
+
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=verilancer&theme=dracula&hide_border=true&bg_color=161b22&title_color=bd93f9&icon_color=ff79c6&text_color=8b949e)](https://github.com/gurvindersingh-web/verilancer)
+
+![React](https://img.shields.io/badge/React_19-282a36?style=flat-square&logo=react&logoColor=8be9fd)
+![Spring](https://img.shields.io/badge/Spring_Boot-282a36?style=flat-square&logo=springboot&logoColor=50fa7b)
+![GSAP](https://img.shields.io/badge/GSAP-282a36?style=flat-square&logo=greensock&logoColor=88CE02)
+![Three.js](https://img.shields.io/badge/Three.js-282a36?style=flat-square&logo=three.js&logoColor=f8f8f2)
+![Tailwind](https://img.shields.io/badge/Tailwind-282a36?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌍 SCAD
+> Spatiotemporal climate anomaly detector — interactive maps & AI-generated explanations
+
+- 🗺️ Leaflet interactive map visualization
+- 📡 Real-time climate data via Open-Meteo
+- 🤖 Claude AI anomaly explanations via n8n
+
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=scad&theme=dracula&hide_border=true&bg_color=161b22&title_color=bd93f9&icon_color=ff79c6&text_color=8b949e)](https://github.com/gurvindersingh-web/scad)
+
+![React](https://img.shields.io/badge/React-282a36?style=flat-square&logo=react&logoColor=8be9fd)
+![Leaflet](https://img.shields.io/badge/Leaflet-282a36?style=flat-square&logo=leaflet&logoColor=50fa7b)
+![Claude](https://img.shields.io/badge/Claude_AI-282a36?style=flat-square&logoColor=bd93f9)
+![n8n](https://img.shields.io/badge/n8n-282a36?style=flat-square&logo=n8n&logoColor=ff79c6)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 SCIES
+> OS kernel security simulator — 4-stage syscall pipeline: INIT → AUTHN → ACL → EXEC
+
+- 🔄 4-stage syscall security pipeline
+- 🎯 Visual security decision simulation
+- 📚 Educational kernel security modeling tool
+
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=scies&theme=dracula&hide_border=true&bg_color=161b22&title_color=bd93f9&icon_color=ff79c6&text_color=8b949e)](https://github.com/gurvindersingh-web/scies)
+
+![React](https://img.shields.io/badge/React-282a36?style=flat-square&logo=react&logoColor=8be9fd)
+![Vite](https://img.shields.io/badge/Vite-282a36?style=flat-square&logo=vite&logoColor=bd93f9)
+![Tailwind](https://img.shields.io/badge/Tailwind-282a36?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
+
+</td>
+
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=gurvindersingh-web&theme=dracula&hide_border=true&background=0d1117&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=6272a4&stroke=44475a&sideNums=f8f8f2&currStreakNum=ff79c6&dates=6272a4" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurvindersingh-web&theme=dracula" alt="Contribution Timeline"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 🏆 GitHub Trophies
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║              ROADMAP — 2025 / 2026                       ║
-  ╠══════════════════════════════════════════════════════════╣
-  ║  ⚡  Advanced n8n workflows & agentic automation         ║
-  ║  📐  System design & distributed systems                 ║
-  ║  🤖  LLM APIs, agents & AI-powered automation            ║
-  ║  🚀  Performance optimization & profiling                ║
-  ║  🛡️  Network security & Linux hardening                 ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=gurvindersingh-web&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/gurvindersingh-web)
+
+</div>
+
+---
+
+## 🌱 Roadmap — 2025 / 2026
+
+<div align="center">
+
+| Status | Area | Focus |
+|:------:|:-----|:------|
+| 🔄 Active | AI & Agentic Automation | n8n · LangChain · Claude/OpenAI APIs |
+| 🔄 Active | System Design | Distributed Systems · HLD/LLD · Kafka · Redis |
+| 📌 Queued | MLOps & LLM Engineering | Vector DBs · RAG · Fine-tuning · Agents |
+| 📌 Queued | Performance Engineering | Profiling · CDN · Caching · Load Testing |
+| 🛡️ Ongoing | Network Security | Scapy · Wireshark · iptables · Linux Hardening |
+
+</div>
 
 ---
 
@@ -142,9 +249,11 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&theme=dracula&hide_border=true&bg_color=282a36&color=bd93f9&line=ff79c6&point=f1fa8c&area=true&area_color=44475a)](https://github.com/gurvindersingh-web)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&theme=dracula&hide_border=true&bg_color=0d1117&color=bd93f9&line=ff79c6&point=f1fa8c&area=true&area_color=bd93f930&radius=6)](https://github.com/gurvindersingh-web)
 
 </div>
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -156,9 +265,9 @@
   <img alt="🐍 Snake eating my contributions" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg"/>
 </picture>
 
-</div>
+> 🟣 Powered by [Platane/snk](https://github.com/Platane/snk) · Auto-regenerates every Sunday via GitHub Actions.
 
-> 🟣 Powered by [Platane/snk](https://github.com/Platane/snk) — auto-regenerates every Sunday via GitHub Actions.
+</div>
 
 ---
 
@@ -166,17 +275,31 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=282a36)](https://linkedin.com/in/gurvindersingh-web)
-[![GitHub](https://img.shields.io/badge/GitHub-f8f8f2?style=for-the-badge&logo=github&logoColor=282a36)](https://github.com/gurvindersingh-web)
-[![Email](https://img.shields.io/badge/Email-ff79c6?style=for-the-badge&logo=gmail&logoColor=282a36)](mailto:gurvindersingh.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-50fa7b?style=for-the-badge&logo=vercel&logoColor=282a36)](https://gurvindersingh-web.vercel.app)
-
 <br/>
 
-*"Let's connect and build something amazing!"* 🤝
+<a href="https://linkedin.com/in/gurvindersingh-web">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/gurvindersingh-web">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:gurvindersingh.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://gurvindersingh-web.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=fff" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+> *"The best engineers aren't those who know the most — they're those who **build** the most."* ⚡
+
+<br/>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,30:6272a4,70:44475a,100:282a36&height=120&section=footer" width="100%"/>
+<!-- ░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,30:6272a4,70:44475a,100:0d1117&height=130&section=footer" alt="Footer"/>
