@@ -63,11 +63,12 @@
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" style="border-radius:12px"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=donut-vertical&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&langs_count=7&card_width=300" width="300" alt="Top Languages"/>
+<!-- Top Languages — using working community instance -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&langs_count=8&card_width=300" width="300" alt="Top Languages"/>
 
 </td>
 </tr>
@@ -130,7 +131,7 @@
 - 📊 EMA adaptive detection baselines
 - 🔔 Live dashboard + n8n AI alert pipeline
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=deauth-defender&theme=dracula&hide_border=true&bg_color=161b22&title_color=bd93f9&icon_color=ff79c6&text_color=8b949e)](https://github.com/gurvindersingh-web/deauth-defender)
+**[→ View Repository](https://github.com/gurvindersingh-web/deauth-defender)**
 
 ![Python](https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=50fa7b)
 ![FastAPI](https://img.shields.io/badge/FastAPI-282a36?style=flat-square&logo=fastapi&logoColor=50fa7b)
@@ -150,7 +151,7 @@
 - 💬 WebSocket real-time bidirectional chat
 - 🎨 GSAP physics + Three.js 3D animations
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=verilancer&theme=dracula&hide_border=true&bg_color=161b22&title_color=bd93f9&icon_color=ff79c6&text_color=8b949e)](https://github.com/gurvindersingh-web/verilancer)
+**[→ View Repository](https://github.com/gurvindersingh-web/verilancer)**
 
 ![React](https://img.shields.io/badge/React_19-282a36?style=flat-square&logo=react&logoColor=8be9fd)
 ![Spring](https://img.shields.io/badge/Spring_Boot-282a36?style=flat-square&logo=springboot&logoColor=50fa7b)
@@ -172,7 +173,7 @@
 - 📡 Real-time climate data via Open-Meteo
 - 🤖 Claude AI anomaly explanations via n8n
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=scad&theme=dracula&hide_border=true&bg_color=161b22&title_color=bd93f9&icon_color=ff79c6&text_color=8b949e)](https://github.com/gurvindersingh-web/scad)
+**[→ View Repository](https://github.com/gurvindersingh-web/scad)**
 
 ![React](https://img.shields.io/badge/React-282a36?style=flat-square&logo=react&logoColor=8be9fd)
 ![Leaflet](https://img.shields.io/badge/Leaflet-282a36?style=flat-square&logo=leaflet&logoColor=50fa7b)
@@ -190,7 +191,7 @@
 - 🎯 Visual security decision simulation
 - 📚 Educational kernel security modeling tool
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=scies&theme=dracula&hide_border=true&bg_color=161b22&title_color=bd93f9&icon_color=ff79c6&text_color=8b949e)](https://github.com/gurvindersingh-web/scies)
+**[→ View Repository](https://github.com/gurvindersingh-web/scies)**
 
 ![React](https://img.shields.io/badge/React-282a36?style=flat-square&logo=react&logoColor=8be9fd)
 ![Vite](https://img.shields.io/badge/Vite-282a36?style=flat-square&logo=vite&logoColor=bd93f9)
@@ -208,22 +209,26 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=gurvindersingh-web&theme=dracula&hide_border=true&background=0d1117&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=6272a4&stroke=44475a&sideNums=f8f8f2&currStreakNum=ff79c6&dates=6272a4" alt="GitHub Streak"/>
+<!-- Streak stats — confirmed working -->
+<img width="55%" src="https://streak-stats.demolab.com?user=gurvindersingh-web&theme=dracula&hide_border=true&background=0d1117&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=6272a4&stroke=44475a&sideNums=f8f8f2&currStreakNum=ff79c6&dates=6272a4" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurvindersingh-web&theme=dracula" alt="Contribution Timeline"/>
+<!-- Profile summary cards — confirmed working -->
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurvindersingh-web&theme=dracula" alt="Repos Per Language"/>
+&nbsp;
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurvindersingh-web&theme=dracula" alt="Most Commit Language"/>
 
-</div>
+<br/><br/>
 
----
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurvindersingh-web&theme=dracula" alt="Stats"/>
+&nbsp;
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurvindersingh-web&theme=dracula&utcOffset=5.5" alt="Productive Time"/>
 
-## 🏆 GitHub Trophies
+<br/><br/>
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=gurvindersingh-web&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/gurvindersingh-web)
+<!-- Contribution timeline — confirmed working -->
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurvindersingh-web&theme=dracula" alt="Contribution Timeline"/>
 
 </div>
 
@@ -249,6 +254,7 @@
 
 <div align="center">
 
+<!-- Activity graph — confirmed working -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&theme=dracula&hide_border=true&bg_color=0d1117&color=bd93f9&line=ff79c6&point=f1fa8c&area=true&area_color=bd93f930&radius=6)](https://github.com/gurvindersingh-web)
 
 </div>
@@ -265,7 +271,7 @@
   <img alt="🐍 Snake eating my contributions" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg"/>
 </picture>
 
-> 🟣 Powered by [Platane/snk](https://github.com/Platane/snk) · Auto-regenerates every Sunday via GitHub Actions.
+> 🟣 Powered by [Platane/snk](https://github.com/Platane/snk) · Auto-regenerates every Sunday via GitHub Actions. Run the workflow manually from the [Actions tab](https://github.com/gurvindersingh-web/gurvindersingh-web/actions) to activate it.
 
 </div>
 
