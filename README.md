@@ -1,18 +1,20 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════ BANNER ══════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████ BANNER ██████████████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=200&section=header&text=Gurvinder%20Singh&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Automation%20Engineer%20%7C%20Linux%20Enthusiast&descAlignY=58&descSize=17&descColor=8b949e" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,30:44475a,70:6272a4,100:bd93f9&height=220&section=header&text=Gurvinder%20Singh&fontSize=56&fontColor=f8f8f2&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Automation%20Engineer%20%7C%20Linux%20Enthusiast&descAlignY=56&descSize=18&descColor=bd93f9" width="100%" alt="Gurvinder Singh — Header Banner"/>
 
-<!-- ════════════════════════════════════════ TYPING ANIMATION ════════════════════════════════════════ -->
+<!-- ██████████████████████████████ TYPING ANIMATION ████████████████████████████ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=660&lines=Building+scalable+web+apps+%F0%9F%9A%80%3BAutomating+workflows+with+n8n+%2B+AI+%F0%9F%A4%96%3BJava+%C2%B7+React+%C2%B7+Python+%C2%B7+Linux+%F0%9F%90%A7%3B%22Build+once%2C+automate+forever%22+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=700&lines=Building+scalable+web+apps+%F0%9F%9A%80;Automating+workflows+with+n8n+%2B+AI+%F0%9F%A4%96;Java+%C2%B7+React+%C2%B7+Python+%C2%B7+Linux+%F0%9F%90%A7;%22Build+once%2C+automate+forever%22+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=58a6ff&style=flat-square&label=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=gurvindersingh-web&color=bd93f9&style=flat-square&label=Profile+Views)
 &nbsp;&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=flat-square&color=58a6ff&labelColor=161b22)](https://github.com/YOUR-USERNAME?tab=followers)
+[![GitHub Followers](https://img.shields.io/github/followers/gurvindersingh-web?label=Followers&style=flat-square&color=bd93f9&labelColor=44475a)](https://github.com/gurvindersingh-web?tab=followers)
+&nbsp;&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/gurvindersingh-web?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=f1fa8c&labelColor=44475a&label=Stars)](https://github.com/gurvindersingh-web)
 
 </div>
 
@@ -28,17 +30,17 @@
 ```
 
 ```
-╔══════════════════════════════════════════════════════╗
-║          GURVINDER SINGH — DEVELOPER PROFILE         ║
-╠══════════════════════════════════════════════════════╣
-║  Role     : Full-Stack Developer                     ║
-║           : & Automation Engineer                    ║
-║  Location : India 🇮🇳                               ║
-║  Focus    : Web Dev · REST APIs · Automation         ║
-║  Status   : Open to collaboration ✅                 ║
-╠══════════════════════════════════════════════════════╣
-║  > "Build once, automate forever." ⚡                ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║        GURVINDER SINGH — DEVELOPER PROFILE               ║
+╠══════════════════════════════════════════════════════════╣
+║  Role     : Full-Stack Developer                         ║
+║             & Automation Engineer                        ║
+║  Location : India 🇮🇳                                  ║
+║  Focus    : Web Dev · REST APIs · AI Automation          ║
+║  Status   : Open to collaboration ✅                     ║
+╠══════════════════════════════════════════════════════════╣
+║  > "Build once, automate forever." ⚡                    ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 - 🎓 **CS Student** @ Lovely Professional University
@@ -53,37 +55,39 @@
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=282a36)
+![TypeScript](https://img.shields.io/badge/TypeScript-8be9fd?style=for-the-badge&logo=typescript&logoColor=282a36)
+![Python](https://img.shields.io/badge/Python-50fa7b?style=for-the-badge&logo=python&logoColor=282a36)
+![Java](https://img.shields.io/badge/Java-ffb86c?style=for-the-badge&logo=openjdk&logoColor=282a36)
+![CSS3](https://img.shields.io/badge/CSS3-bd93f9?style=for-the-badge&logo=css3&logoColor=282a36)
+![Bash](https://img.shields.io/badge/Bash-ff79c6?style=for-the-badge&logo=gnu-bash&logoColor=282a36)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![React](https://img.shields.io/badge/React-8be9fd?style=for-the-badge&logo=react&logoColor=282a36)
+![HTML5](https://img.shields.io/badge/HTML5-ffb86c?style=for-the-badge&logo=html5&logoColor=282a36)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-50fa7b?style=for-the-badge&logo=tailwind-css&logoColor=282a36)
+![Vite](https://img.shields.io/badge/Vite-bd93f9?style=for-the-badge&logo=vite&logoColor=282a36)
+![GSAP](https://img.shields.io/badge/GSAP-ff79c6?style=for-the-badge&logo=greensock&logoColor=282a36)
+![Three.js](https://img.shields.io/badge/Three.js-f8f8f2?style=for-the-badge&logo=three.js&logoColor=282a36)
 
 **Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-50fa7b?style=for-the-badge&logo=nodedotjs&logoColor=282a36)
+![Express](https://img.shields.io/badge/Express-f8f8f2?style=for-the-badge&logo=express&logoColor=282a36)
+![FastAPI](https://img.shields.io/badge/FastAPI-50fa7b?style=for-the-badge&logo=fastapi&logoColor=282a36)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-50fa7b?style=for-the-badge&logo=springboot&logoColor=282a36)
+![MySQL](https://img.shields.io/badge/MySQL-8be9fd?style=for-the-badge&logo=mysql&logoColor=282a36)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-bd93f9?style=for-the-badge&logo=postgresql&logoColor=282a36)
+![MongoDB](https://img.shields.io/badge/MongoDB-50fa7b?style=for-the-badge&logo=mongodb&logoColor=282a36)
 
 **Automation & DevOps**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-ff79c6?style=for-the-badge&logo=n8n&logoColor=282a36)
+![Docker](https://img.shields.io/badge/Docker-8be9fd?style=for-the-badge&logo=docker&logoColor=282a36)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-bd93f9?style=for-the-badge&logo=github-actions&logoColor=282a36)
+![Linux](https://img.shields.io/badge/Linux-f1fa8c?style=for-the-badge&logo=linux&logoColor=282a36)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-ffb86c?style=for-the-badge&logo=cloudflare&logoColor=282a36)
 
 ---
 
@@ -91,13 +95,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&rank_icon=github" alt="GitHub Stats"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&langs_count=8" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=58a6ff&fire=ff7043&currStreakLabel=58a6ff&sideLabels=8b949e" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=gurvindersingh-web&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=6272a4&stroke=44475a&sideNums=f8f8f2&currStreakNum=ff79c6&dates=6272a4" alt="GitHub Streak"/>
 
 </div>
 
@@ -105,27 +109,31 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**🛡️ WiFi Deauth Defender**](https://github.com/YOUR-USERNAME/deauth-defender) | Real-time WiFi deauthentication attack detector — 7-signal heuristic engine, EMA adaptive baselines & AI-powered alerting via n8n | Python · FastAPI · Scapy · React · n8n · Docker |
-| [**🌐 Verilance**](https://github.com/YOUR-USERNAME/verilance) | Full-stack freelance marketplace with JWT auth, real-time WebSocket chat & physics-based animated UI | React 19 · Spring Boot · GSAP · Three.js · Tailwind |
-| [**🌍 SCAD**](https://github.com/YOUR-USERNAME/scad) | Spatiotemporal climate anomaly detector with interactive map visualization and AI-generated explanations | React · Leaflet · Open-Meteo · Claude AI · n8n |
-| [**🔐 SCIES**](https://github.com/YOUR-USERNAME/scies) | OS kernel security simulator modeling a 4-stage syscall pipeline: INIT → AUTHN → ACL → EXEC | React · Vite · Tailwind CSS |
+<div align="center">
+
+| 🔖 Project | 📝 Description | ⚙️ Stack |
+|:-----------|:--------------|:---------|
+| [**🛡️ WiFi Deauth Defender**](https://github.com/gurvindersingh-web/deauth-defender) | Real-time WiFi deauth attack detector — 7-signal heuristic engine, EMA adaptive baselines & AI-powered alerting | `Python` `FastAPI` `Scapy` `React` `n8n` `Docker` |
+| [**🌐 Verilancer**](https://github.com/gurvindersingh-web/verilancer) | Full-stack freelance marketplace with JWT auth, real-time WebSocket chat & physics-based animated UI | `React 19` `Spring Boot` `GSAP` `Three.js` `Tailwind` |
+| [**🌍 SCAD**](https://github.com/gurvindersingh-web/scad) | Spatiotemporal climate anomaly detector with interactive map visualization and AI-generated explanations | `React` `Leaflet` `Open-Meteo` `Claude AI` `n8n` |
+| [**🔐 SCIES**](https://github.com/gurvindersingh-web/scies) | OS kernel security simulator modeling a 4-stage syscall pipeline: INIT → AUTHN → ACL → EXEC | `React` `Vite` `Tailwind CSS` |
+
+</div>
 
 ---
 
 ## 🌱 Currently Learning
 
 ```
-  ╔═════════════════════════════════════════════════════╗
-  ║                ROADMAP — 2025 / 2026                ║
-  ╠═════════════════════════════════════════════════════╣
-  ║  ⚡  Advanced n8n workflows & agentic automation    ║
-  ║  📐  System design & distributed systems            ║
-  ║  🤖  LLM APIs, agents & AI-powered automation       ║
-  ║  🚀  Performance optimization & profiling           ║
-  ║  🛡️   Network security & Linux hardening            ║
-  ╚═════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════╗
+  ║              ROADMAP — 2025 / 2026                       ║
+  ╠══════════════════════════════════════════════════════════╣
+  ║  ⚡  Advanced n8n workflows & agentic automation         ║
+  ║  📐  System design & distributed systems                 ║
+  ║  🤖  LLM APIs, agents & AI-powered automation            ║
+  ║  🚀  Performance optimization & profiling                ║
+  ║  🛡️  Network security & Linux hardening                 ║
+  ╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -134,7 +142,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb)](https://github.com/YOUR-USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&theme=dracula&hide_border=true&bg_color=282a36&color=bd93f9&line=ff79c6&point=f1fa8c&area=true&area_color=44475a)](https://github.com/gurvindersingh-web)
 
 </div>
 
@@ -143,22 +151,25 @@
 <br/>
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 </div>
 
 <details>
-<summary>⚙️ One-time setup</summary>
+<summary>⚙️ One-time setup — Snake workflow</summary>
 
-Create `.github/workflows/snake.yml` in your `YOUR-USERNAME/YOUR-USERNAME` profile repo:
+Create `.github/workflows/snake.yml` in this repo:
 
 ```yaml
 name: Generate Contribution Snake
+
 on:
-  schedule: [{ cron: "0 0 * * 0" }]   # Regenerates every Sunday
+  schedule:
+    - cron: "0 0 * * 0"   # Every Sunday at midnight
   workflow_dispatch:
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -186,10 +197,10 @@ jobs:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=282a36)](https://linkedin.com/in/gurvindersingh-web)
+[![GitHub](https://img.shields.io/badge/GitHub-f8f8f2?style=for-the-badge&logo=github&logoColor=282a36)](https://github.com/gurvindersingh-web)
+[![Email](https://img.shields.io/badge/Email-ff79c6?style=for-the-badge&logo=gmail&logoColor=282a36)](mailto:gurvindersingh.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-50fa7b?style=for-the-badge&logo=vercel&logoColor=282a36)](https://gurvindersingh-web.vercel.app)
 
 <br/>
 
@@ -199,4 +210,4 @@ jobs:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,30:6272a4,70:44475a,100:282a36&height=120&section=footer" width="100%"/>
