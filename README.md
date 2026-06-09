@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,35:1a0a40,70:5523a8,100:bd93f9&height=220&section=header&text=Gurvinder%20Singh&fontSize=58&fontColor=f8f8f2&fontAlignY=48&desc=Linux+Enthusiast+%E2%80%A2+Java+Developer+%E2%80%A2+Systems+Programmer&descSize=15&descColor=cba6f7&descAlignY=67" alt="Gurvinder Singh"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,35:1a0a40,70:5523a8,100:bd93f9&height=220&section=header&text=Gurvinder%20Singh&fontSize=58&fontColor=f8f8f2&fontAlignY=48&desc=Full-Stack+Developer+%E2%80%A2+Linux+Enthusiast+%E2%80%A2+Automation+Engineer&descSize=15&descColor=cba6f7&descAlignY=67" alt="Gurvinder Singh"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ---
 
-The discipline of systems programming is simple: understand everything beneath your feet. I study Linux internals and operating systems the way a craftsman studies their material — layer by layer, from the bootloader up. My work sits at the intersection of network security, system design, and automation. I build things to understand them, then remove myself from the equation with workflows that run while I sleep.
+I'm a full-stack developer who lives in the Linux terminal and automates everything worth automating. I build end-to-end applications — from React frontends to Spring Boot backends — and wire them together with n8n pipelines and AI workflows that do the repetitive work so I don't have to. Most of my projects start with a question I couldn't find a good answer to, which is usually the right reason to build something.
 
 <br/>
 
