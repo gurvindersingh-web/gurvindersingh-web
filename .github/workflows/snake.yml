@@ -1,0 +1,30 @@
+name: 🐍 Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # Every Sunday at midnight UTC
+  workflow_dispatch:        # Allow manual trigger from Actions tab
+
+jobs:
+  generate:
+    name: Generate Snake SVG
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate contribution snake (light + dark + Dracula)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dracula.svg?color_snake=bd93f9&color_dots=#282a36,#44475a,#6272a4,#bd93f9,#ff79c6
+
+      - name: Push snake SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

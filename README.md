@@ -146,50 +146,19 @@
 
 </div>
 
-<details>
-<summary>🐍 Contribution Snake</summary>
-<br/>
+## 🐍 Contribution Snake
+
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="🐍 Snake eating my contributions" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg"/>
 </picture>
+
 </div>
 
-<details>
-<summary>⚙️ One-time setup — Snake workflow</summary>
-
-Create `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * 0"   # Every Sunday at midnight
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-</details>
+> 🟣 Powered by [Platane/snk](https://github.com/Platane/snk) — auto-regenerates every Sunday via GitHub Actions.
 
 ---
 
