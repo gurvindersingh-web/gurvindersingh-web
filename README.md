@@ -1,14 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,35:1a0a40,70:5523a8,100:bd93f9&height=220&section=header&text=Gurvinder%20Singh&fontSize=58&fontColor=f8f8f2&fontAlignY=48&desc=Full-Stack+Developer+%E2%80%A2+Linux+Enthusiast+%E2%80%A2+Automation+Engineer&descSize=15&descColor=cba6f7&descAlignY=67" alt="Gurvinder Singh"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1a0a40,70:3d1a78,100:bd93f9&height=260&text=Gurvinder%20Singh&fontSize=65&fontColor=f8f8f2&fontAlignY=50&animation=twinkling&desc=Full-Stack+Developer+%E2%80%A2+Linux+Enthusiast+%E2%80%A2+Automation+Engineer&descSize=16&descColor=cba6f7&descAlignY=68" alt="Gurvinder Singh"/>
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+that+don't+break+in+prod;n8n+%2B+LLMs+%3D+workflows+that+run+while+I+sleep;Linux+terminal+is+my+natural+habitat;Automating+everything+worth+automating" alt="Typing SVG"/>
+
+<br/><br/>
 
 ![Status](https://img.shields.io/badge/Open_to_Collaborate-bd93f9?style=flat-square&labelColor=21212e)
+&nbsp;
+![Building](https://img.shields.io/badge/Building-SaaS_%26_AI_Tools-ff79c6?style=flat-square&labelColor=21212e)
 
 </div>
 
@@ -30,7 +32,7 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 &nbsp;
 ![AI](https://img.shields.io/badge/AI_Workflows-bd93f9?style=flat-square&labelColor=21212e)
 &nbsp;
-![n8n](https://img.shields.io/badge/n8n-6272a4?style=flat-square&labelColor=21212e)
+![n8n](https://img.shields.io/badge/n8n-ff79c6?style=flat-square&labelColor=21212e)
 &nbsp;
 ![Hyprland](https://img.shields.io/badge/Hyprland-6272a4?style=flat-square&labelColor=21212e)
 &nbsp;
@@ -183,8 +185,22 @@ Spatiotemporal climate anomaly detector with Leaflet maps, Open-Meteo data feeds
 
 <img
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=gurvindersingh-web&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6"
-  width="60%"
+  width="48%"
   alt="GitHub Stats"
+/>
+&nbsp;
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&langs_count=6"
+  width="41%"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/profile-3d-contrib/profile-dracula-animate.svg"
+  width="96%"
+  alt="3D Contribution Graph"
 />
 
 </div>
@@ -244,3 +260,5 @@ The craft is in the details no one asked you to get right.
 </picture>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,30:6272a4,70:44475a,100:0d1117&height=120&section=footer&animation=twinkling" alt="Footer"/>
