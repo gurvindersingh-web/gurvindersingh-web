@@ -9,8 +9,6 @@
 <div align="center">
 
 ![Status](https://img.shields.io/badge/Open_to_Collaborate-bd93f9?style=flat-square&labelColor=21212e)
-&nbsp;
-![Location](https://img.shields.io/badge/India_%7C_LPU_CSE-f8f8f2?style=flat-square&labelColor=21212e)
 
 </div>
 
@@ -28,15 +26,15 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 
 <div align="center">
 
-![OS](https://img.shields.io/badge/Operating_Systems-bd93f9?style=flat-square&labelColor=21212e)
+![SaaS](https://img.shields.io/badge/SaaS-bd93f9?style=flat-square&labelColor=21212e)
 &nbsp;
-![System Design](https://img.shields.io/badge/System_Design-bd93f9?style=flat-square&labelColor=21212e)
+![AI](https://img.shields.io/badge/AI_Workflows-bd93f9?style=flat-square&labelColor=21212e)
 &nbsp;
-![Linux](https://img.shields.io/badge/Linux_Internals-6272a4?style=flat-square&labelColor=21212e)
+![n8n](https://img.shields.io/badge/n8n-6272a4?style=flat-square&labelColor=21212e)
 &nbsp;
-![Security](https://img.shields.io/badge/Network_Security-6272a4?style=flat-square&labelColor=21212e)
+![Hyprland](https://img.shields.io/badge/Hyprland-6272a4?style=flat-square&labelColor=21212e)
 &nbsp;
-![AI](https://img.shields.io/badge/AI_%26_Automation-6272a4?style=flat-square&labelColor=21212e)
+![Android](https://img.shields.io/badge/Android-6272a4?style=flat-square&labelColor=21212e)
 
 </div>
 
