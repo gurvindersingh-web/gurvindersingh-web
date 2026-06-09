@@ -192,12 +192,19 @@ Spatiotemporal climate anomaly detector with Leaflet maps, Open-Meteo data feeds
 
 ## Achievements & Milestones
 
-<br/>
+<div align="center">
 
-- <img src="https://img.shields.io/badge/Security-bd93f9?style=flat-square&logo=gitbook&logoColor=21212e" valign="middle"/> **Network Security Expert:** Architected **WiFi Deauth Defender**, creating a custom 7-signal threat analysis engine.
-- <img src="https://img.shields.io/badge/n8n-ff79c6?style=flat-square&logo=n8n&logoColor=21212e" valign="middle"/> **Automation Champion:** Configured complex agentic flows using **n8n & LLMs** that automate code audits, notifications, and dev tasks.
-- <img src="https://img.shields.io/badge/Full_Stack-8be9fd?style=flat-square&logo=react&logoColor=21212e" valign="middle"/> **Full-Stack Deliverer:** Successfully built and hosted **Verilancer**, a freelance portal integrating JWT/RBAC security and WebSockets.
-- <img src="https://img.shields.io/badge/Linux-6272a4?style=flat-square&logo=linux&logoColor=21212e" valign="middle"/> **Linux Dotfiles Architect:** Deployed fully customized, reproducible window manager setups based on **Hyprland** with automated script wrappers.
+<img src="https://img.shields.io/badge/Security_Expert-WiFi_Deauth_Defender-bd93f9?style=for-the-badge&logo=gitbook&logoColor=21212e" alt="Network Security Expert"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Automation_Champion-n8n_%26_LLM_Flows-ff79c6?style=for-the-badge&logo=n8n&logoColor=fff" alt="Automation Champion"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Full_Stack_Architect-Verilancer_Marketplace-8be9fd?style=for-the-badge&logo=react&logoColor=21212e" alt="Full-Stack Deliverer"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Linux_Architect-Hyprland_Configs-6272a4?style=for-the-badge&logo=linux&logoColor=fff" alt="Linux Dotfiles Architect"/>
+
+</div>
 
 <br/>
 
