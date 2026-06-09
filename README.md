@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1230,100:0d1117&height=200&section=header&text=Gurvinder%20Singh&fontSize=60&fontColor=D4AF37&fontAlignY=50&desc=Full-Stack+Developer+%C2%B7+Automation+Engineer+%C2%B7+Linux+Enthusiast&descSize=16&descColor=E5E7EB&descAlignY=68" alt="Gurvinder Singh"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,50:162032,100:0D1B2A&height=200&section=header&text=Gurvinder%20Singh&fontSize=60&fontColor=88C0D0&fontAlignY=50&desc=Full-Stack+Developer+%C2%B7+Automation+Engineer+%C2%B7+Linux+Enthusiast&descSize=16&descColor=F0EDE4&descAlignY=68" alt="Gurvinder Singh"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=600&lines=Building+things+I+wish+existed;n8n+%2B+LLMs+%2B+whatever+solves+the+problem;Automate+once%2C+forget+forever;Currently%3A+breaking+prod+on+a+fresh+Ubuntu+install" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=88C0D0&center=true&vCenter=true&width=600&lines=Building+things+I+wish+existed;n8n+%2B+LLMs+%2B+whatever+solves+the+problem;Automate+once%2C+forget+forever;Currently%3A+breaking+prod+on+a+fresh+Ubuntu+install" alt="Typing SVG"/>
 
 </div>
 
@@ -16,11 +16,11 @@ I'm a CS student at LPU who builds things to understand them — then automates 
 
 <div align="center">
 
-![Building](https://img.shields.io/badge/building-Verilancer-D4AF37?style=flat-square&labelColor=0d1117)
+![Building](https://img.shields.io/badge/building-Verilancer-88C0D0?style=flat-square&labelColor=0D1B2A)
 &nbsp;
-![Exploring](https://img.shields.io/badge/exploring-Agentic_n8n_Workflows-81A1C1?style=flat-square&labelColor=0d1117)
+![Exploring](https://img.shields.io/badge/exploring-Agentic_n8n_Workflows-81A1C1?style=flat-square&labelColor=0D1B2A)
 &nbsp;
-![Learning](https://img.shields.io/badge/learning-System_Design-A3BE8C?style=flat-square&labelColor=0d1117)
+![Learning](https://img.shields.io/badge/learning-System_Design-A3BE8C?style=flat-square&labelColor=0D1B2A)
 
 </div>
 
@@ -76,12 +76,12 @@ Real-time WiFi deauth attack detector — 7-signal heuristic engine, EMA adaptiv
 
 **[View Repository →](https://github.com/gurvindersingh-web/deauth-defender)**
 
-![Python](https://img.shields.io/badge/Python-D4AF37?style=flat-square&logo=python&logoColor=0d1117&labelColor=0d1117&color=D4AF37)
-![FastAPI](https://img.shields.io/badge/FastAPI-81A1C1?style=flat-square&logo=fastapi&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
-![Scapy](https://img.shields.io/badge/Scapy-A3BE8C?style=flat-square&labelColor=0d1117&color=A3BE8C)
-![React](https://img.shields.io/badge/React-81A1C1?style=flat-square&logo=react&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
-![Docker](https://img.shields.io/badge/Docker-B48EAD?style=flat-square&logo=docker&logoColor=0d1117&labelColor=0d1117&color=B48EAD)
-![n8n](https://img.shields.io/badge/n8n-D4AF37?style=flat-square&logo=n8n&logoColor=0d1117&labelColor=0d1117&color=D4AF37)
+![Python](https://img.shields.io/badge/Python-88C0D0?style=flat-square&logo=python&logoColor=0D1B2A&labelColor=0D1B2A&color=88C0D0)
+![FastAPI](https://img.shields.io/badge/FastAPI-81A1C1?style=flat-square&logo=fastapi&logoColor=0D1B2A&labelColor=0D1B2A&color=81A1C1)
+![Scapy](https://img.shields.io/badge/Scapy-A3BE8C?style=flat-square&labelColor=0D1B2A&color=A3BE8C)
+![React](https://img.shields.io/badge/React-88C0D0?style=flat-square&logo=react&logoColor=0D1B2A&labelColor=0D1B2A&color=88C0D0)
+![Docker](https://img.shields.io/badge/Docker-B48EAD?style=flat-square&logo=docker&logoColor=0D1B2A&labelColor=0D1B2A&color=B48EAD)
+![n8n](https://img.shields.io/badge/n8n-88C0D0?style=flat-square&logo=n8n&logoColor=0D1B2A&labelColor=0D1B2A&color=88C0D0)
 
 </td>
 
@@ -97,11 +97,11 @@ Full-stack freelance marketplace — JWT auth + RBAC, real-time WebSocket chat &
 
 **[View Repository →](https://github.com/gurvindersingh-web/verilancer)**
 
-![React 19](https://img.shields.io/badge/React_19-81A1C1?style=flat-square&logo=react&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-A3BE8C?style=flat-square&logo=springboot&logoColor=0d1117&labelColor=0d1117&color=A3BE8C)
-![GSAP](https://img.shields.io/badge/GSAP-D4AF37?style=flat-square&logo=greensock&logoColor=0d1117&labelColor=0d1117&color=D4AF37)
-![Three.js](https://img.shields.io/badge/Three.js-E5E7EB?style=flat-square&logo=threedotjs&logoColor=0d1117&labelColor=0d1117&color=E5E7EB)
-![Tailwind](https://img.shields.io/badge/Tailwind-81A1C1?style=flat-square&logo=tailwindcss&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
+![React 19](https://img.shields.io/badge/React_19-88C0D0?style=flat-square&logo=react&logoColor=0D1B2A&labelColor=0D1B2A&color=88C0D0)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-A3BE8C?style=flat-square&logo=springboot&logoColor=0D1B2A&labelColor=0D1B2A&color=A3BE8C)
+![GSAP](https://img.shields.io/badge/GSAP-81A1C1?style=flat-square&logo=greensock&logoColor=0D1B2A&labelColor=0D1B2A&color=81A1C1)
+![Three.js](https://img.shields.io/badge/Three.js-F0EDE4?style=flat-square&logo=threedotjs&logoColor=0D1B2A&labelColor=0D1B2A&color=F0EDE4)
+![Tailwind](https://img.shields.io/badge/Tailwind-88C0D0?style=flat-square&logo=tailwindcss&logoColor=0D1B2A&labelColor=0D1B2A&color=88C0D0)
 
 </td>
 
@@ -120,10 +120,10 @@ Spatiotemporal climate anomaly detector — interactive Leaflet maps, Open-Meteo
 
 **[View Repository →](https://github.com/gurvindersingh-web/scad)**
 
-![React](https://img.shields.io/badge/React-81A1C1?style=flat-square&logo=react&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
-![Leaflet](https://img.shields.io/badge/Leaflet-A3BE8C?style=flat-square&logo=leaflet&logoColor=0d1117&labelColor=0d1117&color=A3BE8C)
-![Claude AI](https://img.shields.io/badge/Claude_AI-B48EAD?style=flat-square&labelColor=0d1117&color=B48EAD)
-![n8n](https://img.shields.io/badge/n8n-D4AF37?style=flat-square&logo=n8n&logoColor=0d1117&labelColor=0d1117&color=D4AF37)
+![React](https://img.shields.io/badge/React-88C0D0?style=flat-square&logo=react&logoColor=0D1B2A&labelColor=0D1B2A&color=88C0D0)
+![Leaflet](https://img.shields.io/badge/Leaflet-A3BE8C?style=flat-square&logo=leaflet&logoColor=0D1B2A&labelColor=0D1B2A&color=A3BE8C)
+![Claude AI](https://img.shields.io/badge/Claude_AI-B48EAD?style=flat-square&labelColor=0D1B2A&color=B48EAD)
+![n8n](https://img.shields.io/badge/n8n-88C0D0?style=flat-square&logo=n8n&logoColor=0D1B2A&labelColor=0D1B2A&color=88C0D0)
 
 </td>
 
@@ -139,9 +139,9 @@ OS kernel security simulator — 4-stage syscall pipeline: INIT → AUTHN → AC
 
 **[View Repository →](https://github.com/gurvindersingh-web/scies)**
 
-![React](https://img.shields.io/badge/React-81A1C1?style=flat-square&logo=react&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
-![Vite](https://img.shields.io/badge/Vite-B48EAD?style=flat-square&logo=vite&logoColor=0d1117&labelColor=0d1117&color=B48EAD)
-![Tailwind](https://img.shields.io/badge/Tailwind-81A1C1?style=flat-square&logo=tailwindcss&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
+![React](https://img.shields.io/badge/React-88C0D0?style=flat-square&logo=react&logoColor=0D1B2A&labelColor=0D1B2A&color=88C0D0)
+![Vite](https://img.shields.io/badge/Vite-B48EAD?style=flat-square&logo=vite&logoColor=0D1B2A&labelColor=0D1B2A&color=B48EAD)
+![Tailwind](https://img.shields.io/badge/Tailwind-88C0D0?style=flat-square&logo=tailwindcss&logoColor=0D1B2A&labelColor=0D1B2A&color=88C0D0)
 
 </td>
 
@@ -172,7 +172,7 @@ OS kernel security simulator — 4-stage syscall pipeline: INIT → AUTHN → AC
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=gurvindersingh-web&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=4C566A&stroke=4C566A&sideNums=E5E7EB&currStreakNum=D4AF37&dates=4C566A&card_width=900"
+  src="https://streak-stats.demolab.com?user=gurvindersingh-web&hide_border=true&background=0D1B2A&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0&sideLabels=4C566A&stroke=4C566A&sideNums=F0EDE4&currStreakNum=88C0D0&dates=4C566A&card_width=900"
   width="96%"
   alt="GitHub Streak"
 />
@@ -180,7 +180,7 @@ OS kernel security simulator — 4-stage syscall pipeline: INIT → AUTHN → AC
 <br/><br/>
 
 <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=gurvindersingh-web&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=E5E7EB&icon_color=81A1C1&ring_color=D4AF37"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=gurvindersingh-web&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=88C0D0&text_color=F0EDE4&icon_color=81A1C1&ring_color=88C0D0"
   width="60%"
   alt="GitHub Stats"
 />
@@ -193,7 +193,7 @@ OS kernel security simulator — 4-stage syscall pipeline: INIT → AUTHN → AC
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&hide_border=true&bg_color=0d1117&color=D4AF37&line=81A1C1&point=D4AF37&area=true&area_color=D4AF3720&radius=6)](https://github.com/gurvindersingh-web)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&hide_border=true&bg_color=0D1B2A&color=88C0D0&line=81A1C1&point=88C0D0&area=true&area_color=88C0D020&radius=6)](https://github.com/gurvindersingh-web)
 
 </div>
 
@@ -206,19 +206,19 @@ OS kernel security simulator — 4-stage syscall pipeline: INIT → AUTHN → AC
 <br/>
 
 <a href="https://linkedin.com/in/gurvindersingh-web">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff&labelColor=0d1117" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff&labelColor=0D1B2A" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/gurvindersingh-web">
-  <img src="https://img.shields.io/badge/GitHub-E5E7EB?style=flat-square&logo=github&logoColor=0d1117&labelColor=0d1117" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-F0EDE4?style=flat-square&logo=github&logoColor=0D1B2A&labelColor=0D1B2A" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:gurvindersingh.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=fff&labelColor=0d1117" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=fff&labelColor=0D1B2A" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://gurvindersingh-web.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=flat-square&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-88C0D0?style=flat-square&logo=vercel&logoColor=0D1B2A&labelColor=0D1B2A" alt="Portfolio"/>
 </a>
 
 <br/><br/>
