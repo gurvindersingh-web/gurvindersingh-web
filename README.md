@@ -209,26 +209,48 @@
 
 <div align="center">
 
-<!-- Streak stats — confirmed working -->
-<img width="55%" src="https://streak-stats.demolab.com?user=gurvindersingh-web&theme=dracula&hide_border=true&background=0d1117&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=6272a4&stroke=44475a&sideNums=f8f8f2&currStreakNum=ff79c6&dates=6272a4" alt="GitHub Streak"/>
+<!-- ── Row 1 · Streak Banner (full width) ── -->
+<img
+  src="https://streak-stats.demolab.com?user=gurvindersingh-web&theme=dracula&hide_border=true&background=0d1117&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=6272a4&stroke=44475a&sideNums=f8f8f2&currStreakNum=ff79c6&dates=6272a4&card_width=900"
+  width="96%"
+  alt="GitHub Streak"
+/>
 
 <br/><br/>
 
-<!-- Profile summary cards — confirmed working -->
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurvindersingh-web&theme=dracula" alt="Repos Per Language"/>
-&nbsp;
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurvindersingh-web&theme=dracula" alt="Most Commit Language"/>
+<!-- ── Row 2 · Stats card + Languages card ── -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurvindersingh-web&theme=dracula"
+  width="38%"
+  alt="GitHub Stats"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurvindersingh-web&theme=dracula"
+  width="27%"
+  alt="Repos by Language"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurvindersingh-web&theme=dracula"
+  width="27%"
+  alt="Most Committed Language"
+/>
 
 <br/><br/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurvindersingh-web&theme=dracula" alt="Stats"/>
-&nbsp;
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurvindersingh-web&theme=dracula&utcOffset=5.5" alt="Productive Time"/>
-
-<br/><br/>
-
-<!-- Contribution timeline — confirmed working -->
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurvindersingh-web&theme=dracula" alt="Contribution Timeline"/>
+<!-- ── Row 3 · Productive time + Contribution timeline ── -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurvindersingh-web&theme=dracula&utcOffset=5.5"
+  width="32%"
+  alt="Productive Hours"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurvindersingh-web&theme=dracula"
+  width="63%"
+  alt="Contribution Timeline"
+/>
 
 </div>
 
