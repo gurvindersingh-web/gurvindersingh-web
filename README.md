@@ -1,25 +1,26 @@
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,35:1a0a40,70:5523a8,100:bd93f9&height=240&section=header&text=Gurvinder%20Singh&fontSize=74&fontColor=f8f8f2&animation=twinkling&fontAlignY=54&desc=Full-Stack%20Developer%20%C2%B7%20Automation%20Engineer%20%C2%B7%20Linux%20Enthusiast&descAlignY=76&descSize=19&descColor=cba6f7" alt="Gurvinder Singh"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1230,100:0d1117&height=200&section=header&text=Gurvinder%20Singh&fontSize=60&fontColor=D4AF37&fontAlignY=50&desc=Full-Stack+Developer+%C2%B7+Automation+Engineer+%C2%B7+Linux+Enthusiast&descSize=16&descColor=E5E7EB&descAlignY=68" alt="Gurvinder Singh"/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ TYPING ░░░░░░░░░░░░░░░░░░░░ -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=720&lines=%F0%9F%9A%80+Full-stack+apps+that+scale;%F0%9F%A4%96+n8n+%2B+AI+automation+pipelines;%E2%9A%A1+Java+%C2%B7+React+%C2%B7+Python+%C2%B7+FastAPI;%F0%9F%9B%A1%EF%B8%8F+Breaking+%26+hardening+Linux+systems;%F0%9F%92%A1+%22Build+once%2C+automate+forever%22" alt="Typing SVG"/>
-<br/><br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ BADGES ░░░░░░░░░░░░░░░░░░░░ -->
-<img src="https://komarev.com/ghpvc/?username=gurvindersingh-web&color=bd93f9&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=600&lines=Building+things+I+wish+existed;n8n+%2B+LLMs+%2B+whatever+solves+the+problem;Automate+once%2C+forget+forever;Currently%3A+breaking+prod+on+a+fresh+Ubuntu+install" alt="Typing SVG"/>
+
+</div>
+
+<br/>
+
+I'm a CS student at LPU who builds things to understand them — then automates them so I never have to do them manually again. Most of my projects start with a question: *what would it take to detect a WiFi deauth attack in real-time?* or *what does a syscall security pipeline actually look like?* I don't always know the answer before I start, but that's the point.
+
+<br/>
+
+<div align="center">
+
+![Building](https://img.shields.io/badge/building-Verilancer-D4AF37?style=flat-square&labelColor=0d1117)
 &nbsp;
-<a href="https://github.com/gurvindersingh-web?tab=followers">
-  <img src="https://img.shields.io/github/followers/gurvindersingh-web?label=Followers&style=flat-square&color=bd93f9&labelColor=21212e" alt="Followers"/>
-</a>
+![Exploring](https://img.shields.io/badge/exploring-Agentic_n8n_Workflows-81A1C1?style=flat-square&labelColor=0d1117)
 &nbsp;
-<a href="https://github.com/gurvindersingh-web">
-  <img src="https://img.shields.io/github/stars/gurvindersingh-web?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=f1fa8c&labelColor=21212e&label=Stars" alt="Stars"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Collaborate-50fa7b?style=flat-square&logo=handshake&logoColor=000&labelColor=21212e" alt="Status"/>
+![Learning](https://img.shields.io/badge/learning-System_Design-A3BE8C?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -27,96 +28,37 @@
 
 ---
 
-## ◈ About Me
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2200&pause=600&color=50FA7B&vCenter=true&width=460&lines=%24+whoami;%E2%86%92+Gurvinder+Singh+%7C+Full-Stack+Dev;%24+cat+status.txt;%E2%86%92+Building+%E2%80%A2+Learning+%E2%80%A2+Automating+%E2%80%A2+Hacking;%24+echo+%24LOCATION;%E2%86%92+India+%F0%9F%87%AE%F0%9F%87%B3+%7C+LPU+%E2%80%94+CSE+%F0%9F%8E%93" alt="Terminal Typing"/>
-
-<br/>
-
-**▸ Currently Building**
-- → AI automation pipelines with **n8n + LLMs**
-- → Network security monitoring & real-time alerting
-- → Full-stack apps with **React + Spring Boot / FastAPI**
-
-**▸ Currently Learning**
-- → System Design · Distributed Systems · Kafka · Redis
-- → MLOps · Vector DBs · RAG · LLM fine-tuning
-- → Advanced n8n Agentic Workflows
-
-**▸ Ask me about**
-
-`React` `Node.js` `Java` `FastAPI` `Spring Boot` `n8n` `Docker` `Linux` `Scapy` `WiFi Security`
-
-**▸ Fun fact**
-> I automate everything I do more than twice — including this README.
-
-<br/>
-
-![Available](https://img.shields.io/badge/AVAILABLE-Freelance_%26_Collab-50fa7b?style=flat-square&labelColor=282a36)
-![Location](https://img.shields.io/badge/LOCATION-India_%7C_LPU-bd93f9?style=flat-square&labelColor=282a36)
-![Focus](https://img.shields.io/badge/FOCUS-AI_%26_Automation-ff79c6?style=flat-square&labelColor=282a36)
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
-
-<br/><br/>
-
-<!-- Top Languages — using working community instance -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&langs_count=8&card_width=300" width="300" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-<br/>
-
-**› Languages**
+**Languages**
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,python,java,bash,css&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-**› Frontend**
+**Frontend**
 
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite,html,threejs&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-**› Backend & Databases**
+**Backend & Databases**
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,postgres,mongodb,mysql&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-**› DevOps, Automation & Tools**
+**DevOps & Tools**
 
 [![DevOps](https://skillicons.dev/icons?i=docker,githubactions,linux,cloudflare,git,github&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=fff&labelColor=21212e)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=000&labelColor=21212e)
-![Scapy](https://img.shields.io/badge/Scapy-009639?style=flat-square&logoColor=fff&labelColor=21212e)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=fff&labelColor=21212e)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&labelColor=21212e&logoColor=fff)
 
 </div>
 
 ---
 
-## ◈ Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
@@ -124,40 +66,42 @@
 
 <td width="50%" valign="top">
 
-### ◆ WiFi Deauth Defender
-> Real-time WiFi deauth attack detector — 7-signal heuristic engine, EMA adaptive baselines & AI-powered alerting
+**WiFi Deauth Defender**
 
-- → 7-signal threat heuristic detection engine
-- → EMA adaptive detection baselines
-- → Live dashboard + n8n AI alert pipeline
+Real-time WiFi deauth attack detector — 7-signal heuristic engine, EMA adaptive baselines & AI-powered alerting via n8n.
 
-**[→ View Repository](https://github.com/gurvindersingh-web/deauth-defender)**
+- 7-signal threat heuristic detection engine
+- EMA adaptive detection baselines
+- Live dashboard + n8n AI alert pipeline
 
-![Python](https://img.shields.io/badge/Python-282a36?style=flat-square&logo=python&logoColor=50fa7b)
-![FastAPI](https://img.shields.io/badge/FastAPI-282a36?style=flat-square&logo=fastapi&logoColor=50fa7b)
-![Scapy](https://img.shields.io/badge/Scapy-282a36?style=flat-square&logoColor=8be9fd)
-![React](https://img.shields.io/badge/React-282a36?style=flat-square&logo=react&logoColor=8be9fd)
-![Docker](https://img.shields.io/badge/Docker-282a36?style=flat-square&logo=docker&logoColor=8be9fd)
-![n8n](https://img.shields.io/badge/n8n-282a36?style=flat-square&logo=n8n&logoColor=ff79c6)
+**[View Repository →](https://github.com/gurvindersingh-web/deauth-defender)**
+
+![Python](https://img.shields.io/badge/Python-D4AF37?style=flat-square&logo=python&logoColor=0d1117&labelColor=0d1117&color=D4AF37)
+![FastAPI](https://img.shields.io/badge/FastAPI-81A1C1?style=flat-square&logo=fastapi&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
+![Scapy](https://img.shields.io/badge/Scapy-A3BE8C?style=flat-square&labelColor=0d1117&color=A3BE8C)
+![React](https://img.shields.io/badge/React-81A1C1?style=flat-square&logo=react&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
+![Docker](https://img.shields.io/badge/Docker-B48EAD?style=flat-square&logo=docker&logoColor=0d1117&labelColor=0d1117&color=B48EAD)
+![n8n](https://img.shields.io/badge/n8n-D4AF37?style=flat-square&logo=n8n&logoColor=0d1117&labelColor=0d1117&color=D4AF37)
 
 </td>
 
 <td width="50%" valign="top">
 
-### ◆ Verilancer
-> Full-stack freelance marketplace — JWT auth, real-time WebSocket chat & physics-based animated UI
+**Verilancer**
 
-- → JWT auth + role-based access control
-- → WebSocket real-time bidirectional chat
-- → GSAP physics + Three.js 3D animations
+Full-stack freelance marketplace — JWT auth + RBAC, real-time WebSocket chat & physics-based animated UI.
 
-**[→ View Repository](https://github.com/gurvindersingh-web/verilancer)**
+- JWT auth + role-based access control
+- WebSocket real-time bidirectional chat
+- GSAP physics + Three.js 3D animations
 
-![React](https://img.shields.io/badge/React_19-282a36?style=flat-square&logo=react&logoColor=8be9fd)
-![Spring](https://img.shields.io/badge/Spring_Boot-282a36?style=flat-square&logo=springboot&logoColor=50fa7b)
-![GSAP](https://img.shields.io/badge/GSAP-282a36?style=flat-square&logo=greensock&logoColor=88CE02)
-![Three.js](https://img.shields.io/badge/Three.js-282a36?style=flat-square&logo=three.js&logoColor=f8f8f2)
-![Tailwind](https://img.shields.io/badge/Tailwind-282a36?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
+**[View Repository →](https://github.com/gurvindersingh-web/verilancer)**
+
+![React 19](https://img.shields.io/badge/React_19-81A1C1?style=flat-square&logo=react&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-A3BE8C?style=flat-square&logo=springboot&logoColor=0d1117&labelColor=0d1117&color=A3BE8C)
+![GSAP](https://img.shields.io/badge/GSAP-D4AF37?style=flat-square&logo=greensock&logoColor=0d1117&labelColor=0d1117&color=D4AF37)
+![Three.js](https://img.shields.io/badge/Three.js-E5E7EB?style=flat-square&logo=threedotjs&logoColor=0d1117&labelColor=0d1117&color=E5E7EB)
+![Tailwind](https://img.shields.io/badge/Tailwind-81A1C1?style=flat-square&logo=tailwindcss&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
 
 </td>
 
@@ -166,36 +110,38 @@
 
 <td width="50%" valign="top">
 
-### ◆ SCAD
-> Spatiotemporal climate anomaly detector — interactive maps & AI-generated explanations
+**SCAD**
 
-- → Leaflet interactive map visualization
-- → Real-time climate data via Open-Meteo
-- → Claude AI anomaly explanations via n8n
+Spatiotemporal climate anomaly detector — interactive Leaflet maps, Open-Meteo data & Claude AI explanations via n8n.
 
-**[→ View Repository](https://github.com/gurvindersingh-web/scad)**
+- Leaflet interactive map visualization
+- Real-time climate data via Open-Meteo
+- Claude AI anomaly explanations via n8n
 
-![React](https://img.shields.io/badge/React-282a36?style=flat-square&logo=react&logoColor=8be9fd)
-![Leaflet](https://img.shields.io/badge/Leaflet-282a36?style=flat-square&logo=leaflet&logoColor=50fa7b)
-![Claude](https://img.shields.io/badge/Claude_AI-282a36?style=flat-square&logoColor=bd93f9)
-![n8n](https://img.shields.io/badge/n8n-282a36?style=flat-square&logo=n8n&logoColor=ff79c6)
+**[View Repository →](https://github.com/gurvindersingh-web/scad)**
+
+![React](https://img.shields.io/badge/React-81A1C1?style=flat-square&logo=react&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
+![Leaflet](https://img.shields.io/badge/Leaflet-A3BE8C?style=flat-square&logo=leaflet&logoColor=0d1117&labelColor=0d1117&color=A3BE8C)
+![Claude AI](https://img.shields.io/badge/Claude_AI-B48EAD?style=flat-square&labelColor=0d1117&color=B48EAD)
+![n8n](https://img.shields.io/badge/n8n-D4AF37?style=flat-square&logo=n8n&logoColor=0d1117&labelColor=0d1117&color=D4AF37)
 
 </td>
 
 <td width="50%" valign="top">
 
-### ◆ SCIES
-> OS kernel security simulator — 4-stage syscall pipeline: INIT → AUTHN → ACL → EXEC
+**SCIES**
 
-- → 4-stage syscall security pipeline
-- → Visual security decision simulation
-- → Educational kernel security modeling tool
+OS kernel security simulator — 4-stage syscall pipeline: INIT → AUTHN → ACL → EXEC, built for understanding, not just demo.
 
-**[→ View Repository](https://github.com/gurvindersingh-web/scies)**
+- 4-stage syscall security pipeline
+- Visual security decision simulation
+- Educational kernel security modeling
 
-![React](https://img.shields.io/badge/React-282a36?style=flat-square&logo=react&logoColor=8be9fd)
-![Vite](https://img.shields.io/badge/Vite-282a36?style=flat-square&logo=vite&logoColor=bd93f9)
-![Tailwind](https://img.shields.io/badge/Tailwind-282a36?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
+**[View Repository →](https://github.com/gurvindersingh-web/scies)**
+
+![React](https://img.shields.io/badge/React-81A1C1?style=flat-square&logo=react&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
+![Vite](https://img.shields.io/badge/Vite-B48EAD?style=flat-square&logo=vite&logoColor=0d1117&labelColor=0d1117&color=B48EAD)
+![Tailwind](https://img.shields.io/badge/Tailwind-81A1C1?style=flat-square&logo=tailwindcss&logoColor=0d1117&labelColor=0d1117&color=81A1C1)
 
 </td>
 
@@ -205,58 +151,7 @@
 
 ---
 
-## ◈ GitHub Stats
-
-<div align="center">
-
-<!-- ── Row 1 · Streak Banner (full width) ── -->
-<img
-  src="https://streak-stats.demolab.com?user=gurvindersingh-web&theme=dracula&hide_border=true&background=0d1117&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=6272a4&stroke=44475a&sideNums=f8f8f2&currStreakNum=ff79c6&dates=6272a4&card_width=900"
-  width="96%"
-  alt="GitHub Streak"
-/>
-
-<br/><br/>
-
-<!-- ── Row 2 · Stats card + Languages card ── -->
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurvindersingh-web&theme=dracula"
-  width="38%"
-  alt="GitHub Stats"
-/>
-&nbsp;&nbsp;
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurvindersingh-web&theme=dracula"
-  width="27%"
-  alt="Repos by Language"
-/>
-&nbsp;&nbsp;
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurvindersingh-web&theme=dracula"
-  width="27%"
-  alt="Most Committed Language"
-/>
-
-<br/><br/>
-
-<!-- ── Row 3 · Productive time + Contribution timeline ── -->
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurvindersingh-web&theme=dracula&utcOffset=5.5"
-  width="32%"
-  alt="Productive Hours"
-/>
-&nbsp;&nbsp;
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurvindersingh-web&theme=dracula"
-  width="63%"
-  alt="Contribution Timeline"
-/>
-
-</div>
-
----
-
-## ◈ Roadmap — 2025 / 2026
+## Roadmap — 2025 / 2026
 
 <div align="center">
 
@@ -270,21 +165,69 @@
 
 </div>
 
+---
 
-
-
-## ◈ Contribution Activity
+## GitHub Stats
 
 <div align="center">
 
-<!-- Activity graph — confirmed working -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&theme=dracula&hide_border=true&bg_color=0d1117&color=bd93f9&line=ff79c6&point=f1fa8c&area=true&area_color=bd93f930&radius=6)](https://github.com/gurvindersingh-web)
+<img
+  src="https://streak-stats.demolab.com?user=gurvindersingh-web&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=4C566A&stroke=4C566A&sideNums=E5E7EB&currStreakNum=D4AF37&dates=4C566A&card_width=900"
+  width="96%"
+  alt="GitHub Streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=gurvindersingh-web&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=E5E7EB&icon_color=81A1C1&ring_color=D4AF37"
+  width="60%"
+  alt="GitHub Stats"
+/>
 
 </div>
 
 ---
 
-## ◈ Contribution Snake
+## Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&hide_border=true&bg_color=0d1117&color=D4AF37&line=81A1C1&point=D4AF37&area=true&area_color=D4AF3720&radius=6)](https://github.com/gurvindersingh-web)
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<br/>
+
+<a href="https://linkedin.com/in/gurvindersingh-web">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff&labelColor=0d1117" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/gurvindersingh-web">
+  <img src="https://img.shields.io/badge/GitHub-E5E7EB?style=flat-square&logo=github&logoColor=0d1117&labelColor=0d1117" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:gurvindersingh.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=fff&labelColor=0d1117" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://gurvindersingh-web.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=flat-square&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+I automate everything I do more than twice.
+
+<br/>
+
+</div>
 
 <div align="center">
 
@@ -294,41 +237,4 @@
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg"/>
 </picture>
 
-> 🟣 Powered by [Platane/snk](https://github.com/Platane/snk) · Auto-regenerates every Sunday via GitHub Actions. Run the workflow manually from the [Actions tab](https://github.com/gurvindersingh-web/gurvindersingh-web/actions) to activate it.
-
 </div>
-
----
-
-## ◈ Let's Connect
-
-<div align="center">
-
-<br/>
-
-<a href="https://linkedin.com/in/gurvindersingh-web">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/gurvindersingh-web">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:gurvindersingh.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://gurvindersingh-web.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=fff" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-> *"The best engineers aren't those who know the most — they're those who **build** the most."*
-
-<br/>
-
-</div>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,30:6272a4,70:44475a,100:0d1117&height=130&section=footer" alt="Footer"/>
