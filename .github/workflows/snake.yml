@@ -26,6 +26,23 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-dracula.svg?color_snake=bd93f9&color_dots=#282a36,#44475a,#6272a4,#bd93f9,#ff79c6
 
+      - name: Slow down snake animation (3x slower)
+        run: |
+          for svg in dist/*.svg; do
+            # Multiply all animation-duration values by 3 to slow it down
+            sed -i -E 's/animation-duration:([0-9.]+)ms/animation-duration:PLACEHOLDER\1ms/g' "$svg"
+            python3 -c "
+          import re, sys
+          for f in sys.argv[1:]:
+              with open(f) as fh: content = fh.read()
+              def triple(m):
+                  val = float(m.group(1))
+                  return f'animation-duration:{val*3:.1f}ms'
+              content = re.sub(r'animation-duration:PLACEHOLDER([0-9.]+)ms', triple, content)
+              with open(f, 'w') as fh: fh.write(content)
+          " "$svg"
+          done
+
       - name: Push snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
