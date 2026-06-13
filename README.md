@@ -246,6 +246,14 @@ Spatiotemporal climate anomaly detector with Leaflet maps, Open-Meteo data feeds
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&theme=dracula&hide_border=true&bg_color=0d1117&color=bd93f9&line=ff79c6&point=f1fa8c&area=true&area_color=bd93f930&radius=6)](https://github.com/gurvindersingh-web)
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg"/>
+</picture>
+
 </div>
 
 <br/>
@@ -279,16 +287,6 @@ Spatiotemporal climate anomaly detector with Leaflet maps, Open-Meteo data feeds
 The craft is in the details no one asked you to get right.
 
 <br/>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg"/>
-</picture>
 
 </div>
 
