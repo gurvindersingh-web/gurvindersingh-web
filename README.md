@@ -118,18 +118,18 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
     <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=wifi-deauth-defender&theme=dracula&hide_border=true&cache_seconds=86400" alt="WiFi Deauth Defender — Real-time deauth attack detector"/>
   </a>
   &nbsp;
-  <a href="https://github.com/gurvindersingh-web/scies">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=scies&theme=dracula&hide_border=true&cache_seconds=86400" alt="SCIES — System Call Interface for Enhanced Security"/>
+  <a href="https://github.com/gurvindersingh-web/systm-security">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=systm-security&theme=dracula&hide_border=true&cache_seconds=86400" alt="SCIES — System Call Interface for Enhanced Security"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/gurvindersingh-web/verilancer">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=verilancer&theme=dracula&hide_border=true&cache_seconds=86400" alt="Verilancer — Full-stack freelance marketplace"/>
+  <a href="https://github.com/gurvindersingh-web/devlancr">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=devlancr&theme=dracula&hide_border=true&cache_seconds=86400" alt="Verilancer — Full-stack freelance marketplace"/>
   </a>
   &nbsp;
-  <a href="https://github.com/gurvindersingh-web/scad">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=scad&theme=dracula&hide_border=true&cache_seconds=86400" alt="SCAD — Spatiotemporal Climate Anomaly Detector"/>
+  <a href="https://github.com/gurvindersingh-web/Spatiotemporal-climate-anomaly-detection-AI">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=Spatiotemporal-climate-anomaly-detection-AI&theme=dracula&hide_border=true&cache_seconds=86400" alt="SCAD — Spatiotemporal Climate Anomaly Detector"/>
   </a>
 </p>
 
@@ -165,18 +165,6 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 </tr>
 </table>
 
----
-
-## ⏱ Coding activity
-
-<!-- Connect your WakaTime account at wakatime.com and set username below -->
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gurvindersingh&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400&langs_count=8&custom_title=Weekly+Coding+Breakdown" alt="WakaTime Weekly Coding Stats"/>
-</p>
-
-<!-- If WakaTime card shows error: sign up at wakatime.com, install the
-     VS Code extension, then update username= in the URL above -->
 
 ---
 
@@ -210,9 +198,9 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg"/>
   </picture>
 </p>
 
