@@ -26,7 +26,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👨‍💻 About me
+### About me
 
 I'm a full-stack developer who lives in the Linux terminal and automates everything worth automating. I build end-to-end applications — from React frontends to Spring Boot backends — and wire them together with Airflow pipelines and AI workflows that do the repetitive work so I don't have to. Most of my projects start with a question I couldn't find the answer to, which is usually the right reason to build something.
 
@@ -86,7 +86,7 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 
 ---
 
-## 🧭 Currently exploring
+##  Currently exploring
 
 <table align="center">
 <tr>
@@ -111,37 +111,9 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 
 ---
 
-## 🚀 Featured projects
-
-<p align="center">
-  <a href="https://github.com/gurvindersingh-web/wifi-deauth-defender">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=wifi-deauth-defender&theme=dracula&hide_border=true&cache_seconds=86400" alt="WiFi Deauth Defender — Real-time deauth attack detector"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/gurvindersingh-web/systm-security">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=systm-security&theme=dracula&hide_border=true&cache_seconds=86400" alt="SCIES — System Call Interface for Enhanced Security"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/gurvindersingh-web/devlancr">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=devlancr&theme=dracula&hide_border=true&cache_seconds=86400" alt="Verilancer — Full-stack freelance marketplace"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/gurvindersingh-web/Spatiotemporal-climate-anomaly-detection-AI">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=Spatiotemporal-climate-anomaly-detection-AI&theme=dracula&hide_border=true&cache_seconds=86400" alt="SCAD — Spatiotemporal Climate Anomaly Detector"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/gurvindersingh-web?tab=repositories">
-    <img src="https://img.shields.io/badge/View+All+Repositories-6272a4?style=flat-square&logo=github&logoColor=white" alt="View all repos"/>
-  </a>
-</p>
-
 ---
 
-## 🏆 GitHub trophies
+##  GitHub trophies
 
 <p align="center">
   <img width="100%" src="https://github-trophies.vercel.app/?username=gurvindersingh-web&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Profile Trophies"/>
@@ -149,26 +121,10 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 
 ---
 
-## 📊 GitHub stats
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&theme=dracula&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
-</td>
-<td align="center" width="33%">
-  <img width="100%" src="https://streak-stats.demolab.com?user=gurvindersingh-web&theme=dracula&hide_border=true&cache_seconds=86400" alt="GitHub Streak Stats"/>
-</td>
-<td align="center" width="33%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&theme=dracula&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
-</td>
-</tr>
-</table>
-
 
 ---
 
-## 📈 Contribution analysis
+##  Contribution analysis
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurvindersingh-web&theme=dracula&cache_seconds=86400" alt="Contribution Summary — gurvindersingh-web"/>
@@ -190,7 +146,7 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 
 ---
 
-## 📅 Activity graph
+##  Activity graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&bg_color=0d1117&color=bd93f9&line=ff79c6&point=8be9fd&area=true&area_color=bd93f9&hide_border=true&custom_title=Gurvinder's+Contribution+Graph&radius=8" alt="GitHub Contribution Activity Graph"/>
@@ -206,7 +162,7 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 
 ---
 
-## 🎯 Achievements & milestones
+##  Achievements & milestones
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/SCIES-Kernel+Security+Sim-bd93f9?style=flat-square&labelColor=1e1e2e" alt="SCIES"/></a>
@@ -232,7 +188,7 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 <table align="center">
 <tr>
