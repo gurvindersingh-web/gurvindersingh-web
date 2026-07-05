@@ -57,7 +57,7 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 
 ---
 
-## ⚡ Tech arsenal
+## Tech arsenal
 
 <p align="center">
   <sub><b>Languages</b></sub><br/>
