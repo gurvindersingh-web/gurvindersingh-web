@@ -218,9 +218,5 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 ---
 
 <p align="center">
-  <sub><i>"The craft is in the details no one asked you to get right."</i></sub>
-</p>
-
-<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8be9fd,50:bd93f9,100:ff79c6&height=120&section=footer&reversal=false" alt="Footer wave"/>
 </p>
