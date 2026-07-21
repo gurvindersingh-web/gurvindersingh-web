@@ -17,14 +17,14 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate contribution snake (light + dark + Dracula)
+      - name: Generate contribution snake (light + dark + Custom)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-dracula.svg?color_snake=bd93f9&color_dots=#282a36,#44475a,#6272a4,#bd93f9,#ff79c6
+            dist/github-contribution-grid-snake-custom.svg?color_snake=c5a880&color_dots=#1c1d21,#413b35,#776b5c,#b09f8a,#eae6df
 
       - name: Slow down snake animation (3x slower)
         run: |

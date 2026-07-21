@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/github/stars/gurvindersingh-web?style=flat-square&color=776b5c&label=Stars+Earned&logo=github&logoColor=white" alt="GitHub Stars"/>
   &nbsp;
   <img src="https://img.shields.io/github/actions/workflow/status/gurvindersingh-web/gurvindersingh-web/snake.yml?branch=main&style=flat-square&color=413b35&label=Snake+Workflow&logo=github-actions&logoColor=white" alt="Snake Workflow Status"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/actions/workflow/status/gurvindersingh-web/gurvindersingh-web/profile-3d.yml?branch=main&style=flat-square&color=413b35&label=3D+Contrib+Workflow&logo=github-actions&logoColor=white" alt="3D Contrib Workflow Status"/>
 </p>
 
 <p align="center">
@@ -158,13 +156,7 @@
   </tr>
 </table>
 
----
 
-## 🌐 3D Contribution Landscape
-
-<p align="center">
-  <img width="100%" src="profile-3d-contrib/profile-customize.svg" alt="3D Contribution Graph"/>
-</p>
 
 ---
 
@@ -198,9 +190,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-custom.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-dracula.svg"/>
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-custom.svg"/>
   </picture>
 </p>
 
