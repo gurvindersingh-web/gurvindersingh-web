@@ -165,17 +165,6 @@
 ---
 
 ## Git Metrics & Stats
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&count_private=true&hide_title=false&bg_color=0a0b0d&title_color=c5a880&text_color=eae6df&icon_color=c5a880&border_color=25272c" alt="Gurvinder's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&hide_title=false&bg_color=0a0b0d&title_color=c5a880&text_color=eae6df&icon_color=c5a880&border_color=25272c" alt="Gurvinder's Top Languages" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=gurvindersingh-web&background=0a0b0d&ring=c5a880&fire=c5a880&currStreakNum=eae6df&sideNums=eae6df&currStreakLabel=c5a880&sideLabels=b09f8a&dates=776b5c&border=25272c" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## Contribution Activity
