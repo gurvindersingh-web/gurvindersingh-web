@@ -18,7 +18,7 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
 <table>
   <tr>
@@ -26,11 +26,11 @@
       <p>I am a passionate <strong>Full-Stack Developer</strong>, <strong>Linux Enthusiast</strong>, and <strong>Automation Engineer</strong> who thrives in the command line. I love building end-to-end applications, from interactive React interfaces to highly scalable Spring Boot and FastAPI backends, and wiring them together using Airflow pipelines and AI-driven automation workflows.</p>
       <p>My work sits at the intersection of application development, systems engineering, and network security. Most of my projects start with a question I couldn't find the answer to, which is usually the best reason to build something new.</p>
       <br/>
-      <p>🎯 <strong>Current Focus Areas:</strong></p>
+      <p><strong>Current Focus Areas:</strong></p>
       <ul>
-        <li>🚀 Building modern, secure SaaS and Web Applications</li>
-        <li>🛡️ Network security tooling & Kernel-level instrumentation (eBPF)</li>
-        <li>🤖 Custom LLM workflows & Autonomous agent systems</li>
+        <li>Building modern, secure SaaS and Web Applications</li>
+        <li>Network security tooling & Kernel-level instrumentation (eBPF)</li>
+        <li>Custom LLM workflows & Autonomous agent systems</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -43,21 +43,21 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <strong>💻 Languages & Core</strong><br/>
+        <strong>Languages & Core</strong><br/>
         <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,bash,html,css&perline=8" alt="Languages"/><br/><br/>
-        <strong>⚙️ Systems & Infrastructure</strong><br/>
+        <strong>Systems & Infrastructure</strong><br/>
         <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,nginx,cloudflare,raspberrypi&perline=8" alt="Systems"/>
       </td>
       <td width="50%" valign="top">
-        <strong>🔌 Backend & Databases</strong><br/>
+        <strong>Backend & Databases</strong><br/>
         <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,postgresql,mysql,mongodb,redis,firebase&perline=8" alt="Backend"/><br/><br/>
-        <strong>🎨 Frontend & DevOps</strong><br/>
+        <strong>Frontend & DevOps</strong><br/>
         <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,threejs,figma,githubactions,ansible&perline=8" alt="Frontend & DevOps"/>
       </td>
     </tr>
@@ -66,12 +66,12 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Dynamic Memory Management Visualizer</h3>
+      <h3>Dynamic Memory Management Visualizer</h3>
       <p><em>Explore how operating systems manage memory in real-time.</em></p>
       <ul>
         <li>Visualizes <strong>FIFO, LRU, and Optimal</strong> page replacement algorithms with fluid, real-time animations.</li>
@@ -85,7 +85,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛰️ Spatiotemporal Climate Anomaly Detection AI</h3>
+      <h3>Spatiotemporal Climate Anomaly Detection AI</h3>
       <p><em>Real-time meteorological anomaly detection & forecasting for South Asia.</em></p>
       <ul>
         <li>Monitors meteorological variables across a <strong>0.25° geographic grid</strong>.</li>
@@ -101,7 +101,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 OS Process Workload Analyzer</h3>
+      <h3>OS Process Workload Analyzer</h3>
       <p><em>Robust OS performance testing and stress simulation toolkit.</em></p>
       <ul>
         <li>Simulates CPU, memory, and disk stress with custom configurable load patterns.</li>
@@ -115,7 +115,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ WiFi Deauthentication Attack Defender & Analyser</h3>
+      <h3>WiFi Deauthentication Attack Defender & Analyser</h3>
       <p><em>AI-powered WiFi security monitoring and intrusion detection pipeline.</em></p>
       <ul>
         <li>Analyzes 802.11 frames in real-time to identify deauth flood attacks.</li>
@@ -133,7 +133,7 @@
 
 ---
 
-## 🔮 Currently Exploring
+## Currently Exploring
 
 <table align="center" width="100%">
   <tr>
@@ -160,7 +160,7 @@
 
 ---
 
-## 📊 Git Metrics & Stats
+## Git Metrics & Stats
 
 <p align="center">
   <table align="center">
@@ -182,7 +182,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&bg_color=0a0b0d&color=c5a880&line=b09f8a&point=eae6df&area=true&area_color=776b5c&hide_border=true&custom_title=Gurvinder's+Contribution+Graph&radius=8" alt="GitHub Contribution Activity Graph"/>
@@ -198,7 +198,7 @@
 
 ---
 
-## 🏆 Achievements & Badges
+## Achievements & Badges
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/SCIES-Kernel+Security+Sim-c5a880?style=flat-square&labelColor=1c1d21" alt="SCIES"/></a>
@@ -224,7 +224,7 @@
 
 ---
 
-## 🤝 Connect & Collaborate
+## Connect & Collaborate
 
 <p align="center">
   <a href="https://linkedin.com/in/gurvindersingh-web">
