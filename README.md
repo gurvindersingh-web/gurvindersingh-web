@@ -3,17 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gurvindersingh-web&color=c5a880&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://github.com/gurvindersingh-web"><img src="https://komarev.com/ghpvc/?username=gurvindersingh-web&color=c5a880&style=flat-square&label=Profile+Views" alt="Profile Views"/></a>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/gurvindersingh-web?style=flat-square&color=b09f8a&label=Followers&logo=github&logoColor=white" alt="GitHub Followers"/>
+  <a href="https://github.com/gurvindersingh-web?tab=followers"><img src="https://img.shields.io/github/followers/gurvindersingh-web?style=flat-square&color=b09f8a&label=Followers&logo=github&logoColor=white" alt="GitHub Followers"/></a>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/gurvindersingh-web?style=flat-square&color=776b5c&label=Stars+Earned&logo=github&logoColor=white" alt="GitHub Stars"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/actions/workflow/status/gurvindersingh-web/gurvindersingh-web/snake.yml?branch=main&style=flat-square&color=413b35&label=Snake+Workflow&logo=github-actions&logoColor=white" alt="Snake Workflow Status"/>
+  <a href="https://github.com/gurvindersingh-web"><img src="https://img.shields.io/github/stars/gurvindersingh-web?style=flat-square&color=776b5c&label=Stars+Earned&logo=github&logoColor=white" alt="GitHub Stars"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=c5a880&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full-Stack+Developer+%7C+React+19+%2B+Spring+Boot;Linux+Terminal+Dweller;Automation+%26+eBPF+Engineer;Open+Source+Builder;Breaking+Things.+Fixing+Things.+Shipping+Things." alt="Typing animation showing Gurvinder's roles"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=C5A880&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Full-Stack+Developer+%7C+React+19+%2B+Spring+Boot;Linux+Terminal+Dweller+%7C+Arch+%2B+i3;Automation+%26+eBPF+Engineer;Network+Security+%7C+WiFi+Defense+AI;Breaking+Things.+Fixing+Things.+Shipping+Things." alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=776B5C&center=true&vCenter=true&repeat=true&width=435&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Animated Divider"/>
 </p>
 
 ---
@@ -34,9 +36,9 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="samurai.png" width="180" style="border-radius: 50%; border: 3px solid #c5a880; box-shadow: 0 4px 10px rgba(0,0,0,0.5);" alt="Samurai Avatar"/>
+      <img src="samurai.png" width="180" alt="Samurai Avatar"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Status-Open+to+Opportunities-eae6df?style=flat-square&labelColor=1c1d21" alt="Open to Opportunities"/>
+      <a href="https://github.com/gurvindersingh-web"><img src="https://img.shields.io/badge/Status-Open+to+Opportunities-eae6df?style=flat-square&labelColor=1c1d21" alt="Open to Opportunities"/></a>
     </td>
   </tr>
 </table>
@@ -135,6 +137,10 @@
 
 ## Currently Exploring
 
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=C5A880&center=true&vCenter=true&repeat=true&width=500&lines=Rust+%E2%86%92+Systems+Programming;Kubernetes+%E2%86%92+Container+Orchestration;LLM+Fine--tuning+%E2%86%92+Custom+Model+Adaptation;eBPF+%E2%86%92+Kernel--space+Network+Monitoring" alt="Exploring Typing SVG" /></a>
+</p>
+
 <table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="25%">
@@ -156,28 +162,18 @@
   </tr>
 </table>
 
-
-
 ---
 
 ## Git Metrics & Stats
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" valign="middle">
-        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&count_private=true&hide_title=false&bg_color=0a0b0d&title_color=c5a880&text_color=eae6df&icon_color=c5a880&border_color=25272c" alt="Gurvinder's GitHub Stats" />
-      </td>
-      <td align="center" valign="middle">
-        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&hide_title=false&bg_color=0a0b0d&title_color=c5a880&text_color=eae6df&icon_color=c5a880&border_color=25272c" alt="Gurvinder's Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle" colspan="2">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gurvindersingh-web&background=0a0b0d&fire=c5a880&ring=c5a880&currStreakLabel=eae6df&currStreakVal=eae6df&sideNums=eae6df&sideLabels=eae6df&border=25272c" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&count_private=true&hide_title=false&bg_color=0a0b0d&title_color=c5a880&text_color=eae6df&icon_color=c5a880&border_color=25272c" alt="Gurvinder's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&hide_title=false&bg_color=0a0b0d&title_color=c5a880&text_color=eae6df&icon_color=c5a880&border_color=25272c" alt="Gurvinder's Top Languages" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=gurvindersingh-web&background=0a0b0d&ring=c5a880&fire=c5a880&currStreakNum=eae6df&sideNums=eae6df&currStreakLabel=c5a880&sideLabels=b09f8a&dates=776b5c&border=25272c" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -242,6 +238,10 @@
   <a href="https://gurvindersingh-web.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-413b35?style=for-the-badge&logo=vercel&logoColor=eae6df" alt="Portfolio"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=776B5C&center=true&vCenter=true&repeat=true&width=500&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22" alt="Quote Typing SVG"/>
 </p>
 
 <p align="center">
