@@ -110,9 +110,6 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 </table>
 
 ---
-
----
-##  GitHub trophies
 ---
 
 ##  Contribution analysis
