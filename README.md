@@ -112,16 +112,7 @@ I'm a full-stack developer who lives in the Linux terminal and automates everyth
 ---
 
 ---
-
 ##  GitHub trophies
-
-<p align="center">
-  <img width="100%" src="https://github-trophies.vercel.app/?username=gurvindersingh-web&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Profile Trophies"/>
-</p>
-
----
-
-
 ---
 
 ##  Contribution analysis
