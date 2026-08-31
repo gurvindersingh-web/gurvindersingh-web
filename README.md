@@ -169,9 +169,7 @@
 
 ## Contribution Activity
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&bg_color=0a0b0d&color=c5a880&line=b09f8a&point=eae6df&area=true&area_color=776b5c&hide_border=true&custom_title=Gurvinder's+Contribution+Graph&radius=8" alt="GitHub Contribution Activity Graph"/>
-</p>
+
 
 <p align="center">
   <picture>
