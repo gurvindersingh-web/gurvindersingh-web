@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=C5A880&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Full-Stack+Developer+%7C+React+19+%2B+Spring+Boot;Linux+Terminal+Dweller+%7C+Arch+%2B+i3;Automation+%26+eBPF+Engineer;Network+Security+%7C+WiFi+Defense+AI;Breaking+Things.+Fixing+Things.+Shipping+Things." alt="Typing SVG" /></a>
+  <a href="https://github.com/gurvindersingh-web"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=C5A880&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Full-Stack+Developer+%7C+React+19+%2B+Spring+Boot;Linux+Terminal+Dweller+%7C+Arch+%2B+i3;Automation+%26+eBPF+Engineer;Network+Security+%7C+WiFi+Defense+AI;Breaking+Things.+Fixing+Things.+Shipping+Things." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="samurai.png" width="180" alt="Samurai Avatar"/>
+      <img src="profile.png" width="180" alt="Profile Avatar" style="border-radius: 50%"/>
       <br/><br/>
       <a href="https://github.com/gurvindersingh-web"><img src="https://img.shields.io/badge/Status-Open+to+Opportunities-eae6df?style=flat-square&labelColor=1c1d21" alt="Open to Opportunities"/></a>
     </td>
@@ -165,6 +165,12 @@
 ---
 
 ## Git Metrics & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&theme=transparent&title_color=c5a880&text_color=eae6df&icon_color=776b5c&bg_color=0a0b0d&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&theme=transparent&title_color=c5a880&text_color=eae6df&bg_color=0a0b0d&hide_border=true" alt="Top Languages"/>
+</p>
+
 ---
 
 ## Contribution Activity
