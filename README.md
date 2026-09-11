@@ -71,7 +71,7 @@
 
 ## Featured Projects
 
-### 🛡️ Flagship — WiFi Deauthentication Attack Defender & Analyser
+### Flagship — WiFi Deauthentication Attack Defender & Analyser
 
 <table width="100%">
   <tr>
@@ -224,12 +224,12 @@
 ## Git Metrics & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&theme=transparent&title_color=d4cebd&text_color=eae6df&icon_color=a39f8d&bg_color=080808&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&theme=transparent&title_color=d4cebd&text_color=eae6df&bg_color=080808&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&title_color=d4cebd&text_color=eae6df&icon_color=a39f8d&bg_color=080808&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&title_color=d4cebd&text_color=eae6df&bg_color=080808&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gurvindersingh-web&theme=transparent&hide_border=true&background=080808&stroke=2a2925&ring=d4cebd&fire=d4cebd&currStreakNum=eae6df&sideNums=eae6df&currStreakLabel=a39f8d&sideLabels=a39f8d&dates=666459" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=gurvindersingh-web&hide_border=true&background=080808&stroke=2a2925&ring=d4cebd&fire=d4cebd&currStreakNum=eae6df&sideNums=eae6df&currStreakLabel=a39f8d&sideLabels=a39f8d&dates=666459" alt="GitHub Streak Stats"/>
 </p>
 
 ---
