@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gurvindersingh-web&color=d4cebd&style=for-the-badge&label=PROFILE+VIEWS" alt="Views"/>
   <img src="https://img.shields.io/github/followers/gurvindersingh-web?style=for-the-badge&color=a39f8d&label=FOLLOWERS&logo=github&logoColor=white&labelColor=1e1e1e" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/gurvindersingh-web?style=for-the-badge&color=736f62&label=STARS&logo=github&logoColor=white&labelColor=1e1e1e" alt="Stars"/>
   <img src="https://img.shields.io/github/repos/gurvindersingh-web?style=for-the-badge&color=666459&label=REPOS&logo=github&logoColor=white&labelColor=1e1e1e" alt="Repos"/>
