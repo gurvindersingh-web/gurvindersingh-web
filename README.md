@@ -1,17 +1,21 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/hero.svg" width="100%" alt="Gurvinder Singh — apkx. Full-stack developer, Linux enthusiast, automation engineer." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=D4CEBD&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Gurvinder+Singh+%E2%80%94+apkx;Full-stack+developer.;Linux+enthusiast.;Automation+engineer." alt="Gurvinder Singh — apkx. Full-stack developer, Linux enthusiast, automation engineer." />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/typing.svg" width="100%" alt="Building full-stack products. Inspecting packets. Automating Linux workflows." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=A39F8D&center=true&vCenter=true&repeat=true&width=800&height=40&lines=Building+full-stack+products.;Inspecting+packets.;Automating+Linux+workflows." alt="Building full-stack products. Inspecting packets. Automating Linux workflows." />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/views.svg" width="174" height="28" alt="Profile repository views over the last 14 days; unavailable until the first successful refresh." />
-  <a href="https://github.com/gurvindersingh-web?tab=followers"><img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/followers.svg" width="140" height="28" alt="GitHub followers; refreshed daily." /></a>
-  <a href="https://github.com/gurvindersingh-web?tab=repositories"><img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/stars.svg" width="124" height="28" alt="Stars received by owned public non-fork repositories; refreshed daily." /></a>
-  <a href="https://github.com/gurvindersingh-web?tab=repositories"><img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/repos.svg" width="124" height="28" alt="Owned public non-fork repositories; refreshed daily." /></a>
-  <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/status.svg" width="236" height="28" alt="Open to work and opportunities." />
+  <a href="https://github.com/gurvindersingh-web"><img src="https://komarev.com/ghpvc/?username=gurvindersingh-web&color=d4cebd&style=flat-square&label=Profile+Views" alt="Profile Views"/></a>
+  &nbsp;
+  <a href="https://github.com/gurvindersingh-web?tab=followers"><img src="https://img.shields.io/github/followers/gurvindersingh-web?style=flat-square&color=a39f8d&label=Followers&logo=github&logoColor=1e1e1e&labelColor=1e1e1e" alt="GitHub Followers"/></a>
+  &nbsp;
+  <a href="https://github.com/gurvindersingh-web"><img src="https://img.shields.io/github/stars/gurvindersingh-web?style=flat-square&color=736f62&label=Stars+Earned&logo=github&logoColor=1e1e1e&labelColor=1e1e1e" alt="GitHub Stars"/></a>
+  &nbsp;
+  <a href="https://github.com/gurvindersingh-web?tab=repositories"><img src="https://img.shields.io/github/repos/gurvindersingh-web?style=flat-square&color=666459&label=Repositories&logo=github&logoColor=1e1e1e&labelColor=1e1e1e" alt="Repositories"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_work-d4cebd?style=flat-square&logo=git&logoColor=1e1e1e&labelColor=1e1e1e" alt="Status" />
 </p>
 
 <p align="center">
@@ -24,11 +28,9 @@
   <sub>India · B.Tech CSE @ LPU · React / Spring / Python · Arch + Hyprland</sub>
 </p>
 
-<img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/divider.svg" width="100%" alt="Charcoal and khaki section divider." />
+---
 
 ## 01 / About
-
-<img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/terminal.svg" width="100%" alt="Terminal profile: Gurvinder Singh, alias apkx; full-stack developer and automation engineer; B.Tech CSE at LPU; India; Arch Linux and Hyprland; open to work; building network analysis and Linux tooling." />
 
 I build across the interface, API, and operating-system boundary. My work spans freelance platforms, explainable network analysis, OS simulators, and Linux desktop tooling.
 
@@ -37,26 +39,55 @@ I build across the interface, API, and operating-system boundary. My work spans 
 
 ## 02 / Tech arsenal
 
-<img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/arsenal.svg" width="100%" alt="Monochrome skill tiles grouped into frontend, backend, data, infrastructure, and systems." />
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="20%">
+      <b>Frontend</b><br/>
+      <img src="https://img.shields.io/badge/React_19-d4cebd?style=flat-square&logo=react&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/Vite-a39f8d?style=flat-square&logo=vite&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/Tailwind-736f62?style=flat-square&logo=tailwindcss&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-666459?style=flat-square&logo=typescript&logoColor=1e1e1e&labelColor=1e1e1e"/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <b>Backend</b><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-d4cebd?style=flat-square&logo=springboot&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/Python-a39f8d?style=flat-square&logo=python&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-736f62?style=flat-square&logo=fastapi&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/Java-666459?style=flat-square&logo=openjdk&logoColor=1e1e1e&labelColor=1e1e1e"/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <b>Data</b><br/>
+      <img src="https://img.shields.io/badge/Postgres-d4cebd?style=flat-square&logo=postgresql&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/MySQL-a39f8d?style=flat-square&logo=mysql&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-736f62?style=flat-square&logo=mongodb&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/Redis-666459?style=flat-square&logo=redis&logoColor=1e1e1e&labelColor=1e1e1e"/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <b>Infrastructure</b><br/>
+      <img src="https://img.shields.io/badge/Docker-d4cebd?style=flat-square&logo=docker&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/Nginx-a39f8d?style=flat-square&logo=nginx&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/Cloudflare-736f62?style=flat-square&logo=cloudflare&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/GH_Actions-666459?style=flat-square&logo=githubactions&logoColor=1e1e1e&labelColor=1e1e1e"/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <b>Systems</b><br/>
+      <img src="https://img.shields.io/badge/C-d4cebd?style=flat-square&logo=c&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/Scapy-a39f8d?style=flat-square&logo=python&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/Arch_Linux-736f62?style=flat-square&logo=archlinux&logoColor=1e1e1e&labelColor=1e1e1e"/><br/>
+      <img src="https://img.shields.io/badge/Hyprland-666459?style=flat-square&logo=linux&logoColor=1e1e1e&labelColor=1e1e1e"/>
+    </td>
+  </tr>
+</table>
 
-**Frontend** — React 19 · Vite · Tailwind · TypeScript  
-**Backend** — Spring Boot · Python · FastAPI · Java  
-**Data** — Postgres · MySQL · MongoDB · Redis  
-**Infrastructure** — Docker · Nginx · Cloudflare · GitHub Actions  
-**Systems** — C · Scapy · Arch Linux · Hyprland
-
-<p>
-  <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/exploring.svg" width="100%" alt="Exploring Rust, Kubernetes, eBPF, and LLM fine-tuning." />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=D4CEBD&center=true&vCenter=true&repeat=true&width=500&lines=Exploring+Rust+%E2%86%92+Systems+Programming;Exploring+Kubernetes+%E2%86%92+Orchestration;Exploring+LLM+Fine--tuning;Exploring+eBPF+%E2%86%92+Kernel--space" alt="Exploring Typing SVG" />
 </p>
 
-<img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/divider.svg" width="100%" alt="Charcoal and khaki section divider." />
+---
 
 ## 03 / Featured build
 
-<a href="https://github.com/gurvindersingh-web/Wifi-deauth-analyser-ai">
-  <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/featured.svg" width="100%" alt="Featured repository: Wifi-deauth-analyser-ai — seven-signal heuristic engine, NVIDIA NIM, FastAPI REST and WebSocket interfaces." />
-</a>
-
+### <a href="https://github.com/gurvindersingh-web/Wifi-deauth-analyser-ai">Wifi-deauth-analyser-ai</a>
 <p>
   <kbd> Python </kbd> <kbd> Scapy </kbd> <kbd> FastAPI </kbd> <kbd> NVIDIA NIM </kbd><br />
   <kbd> Docker Compose </kbd> <kbd> n8n </kbd> <kbd> Cloudflare Tunnel </kbd>
@@ -66,8 +97,6 @@ I build across the interface, API, and operating-system boundary. My work spans 
 **Explain:** NVIDIA NIM adds AI-assisted interpretation to the analysis.  
 **Deliver:** FastAPI REST + WebSocket interfaces, Docker Compose, n8n, and Cloudflare Tunnel.
 
-<img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/architecture.svg" width="100%" alt="Conceptual analysis path: Scapy packet signals to seven-signal heuristics, NVIDIA NIM interpretation, FastAPI REST and WebSocket delivery, and n8n automation. Docker Compose packages services; Cloudflare Tunnel exposes the API." />
-
 [Read the source →](https://github.com/gurvindersingh-web/Wifi-deauth-analyser-ai)
 
 ## 04 / Selected projects
@@ -76,43 +105,37 @@ I build across the interface, API, and operating-system boundary. My work spans 
   <tr>
     <td width="50%">
       <a href="https://github.com/gurvindersingh-web/devlancr">
-        <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/devlancr.svg" width="100%" alt="DevLancr / Verilance — freelance marketplace." />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=devlancr&theme=transparent&title_color=d4cebd&text_color=a39f8d&icon_color=d4cebd" width="100%" alt="DevLancr / Verilance — freelance marketplace." />
       </a>
-      <br /><a href="https://github.com/gurvindersingh-web/devlancr">Marketplace →</a>
     </td>
     <td width="50%">
       <a href="https://github.com/gurvindersingh-web/Spatiotemporal-climate-anomaly-detection-AI">
-        <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/climate.svg" width="100%" alt="Spatiotemporal Climate Anomaly Detector — climate anomaly analysis." />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=Spatiotemporal-climate-anomaly-detection-AI&theme=transparent&title_color=d4cebd&text_color=a39f8d&icon_color=d4cebd" width="100%" alt="Spatiotemporal Climate Anomaly Detector" />
       </a>
-      <br /><a href="https://github.com/gurvindersingh-web/Spatiotemporal-climate-anomaly-detection-AI">Climate analysis →</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/gurvindersingh-web/systm-security">
-        <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/scies.svg" width="100%" alt="SCIES — educational system-call security simulator." />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=systm-security&theme=transparent&title_color=d4cebd&text_color=a39f8d&icon_color=d4cebd" width="100%" alt="SCIES — educational system-call security simulator." />
       </a>
-      <br /><a href="https://github.com/gurvindersingh-web/systm-security">Syscall security →</a>
     </td>
     <td width="50%">
       <a href="https://github.com/gurvindersingh-web/Dynamic-Memory-Management">
-        <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/memory.svg" width="100%" alt="Dynamic Memory Management — page-replacement visualizations and memory simulation." />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=Dynamic-Memory-Management&theme=transparent&title_color=d4cebd&text_color=a39f8d&icon_color=d4cebd" width="100%" alt="Dynamic Memory Management" />
       </a>
-      <br /><a href="https://github.com/gurvindersingh-web/Dynamic-Memory-Management">Memory lab →</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/gurvindersingh-web/OS-process-analizer">
-        <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/process.svg" width="100%" alt="OS Process Analyzer — operating-system process analysis." />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=OS-process-analizer&theme=transparent&title_color=d4cebd&text_color=a39f8d&icon_color=d4cebd" width="100%" alt="OS Process Analyzer" />
       </a>
-      <br /><a href="https://github.com/gurvindersingh-web/OS-process-analizer">Process lab →</a>
     </td>
     <td width="50%">
       <a href="https://github.com/gurvindersingh-web/Turn-base-text-RPG-battle-engine">
-        <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/rpg.svg" width="100%" alt="Arcane Kingdom — Java turn-based text RPG battle engine." />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=Turn-base-text-RPG-battle-engine&theme=transparent&title_color=d4cebd&text_color=a39f8d&icon_color=d4cebd" width="100%" alt="Arcane Kingdom" />
       </a>
-      <br /><a href="https://github.com/gurvindersingh-web/Turn-base-text-RPG-battle-engine">Battle engine →</a>
     </td>
   </tr>
 </table>
@@ -125,89 +148,38 @@ I build across the interface, API, and operating-system boundary. My work spans 
 
 </details>
 
-<img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/divider.svg" width="100%" alt="Charcoal and khaki section divider." />
+---
 
 ## 05 / GitHub telemetry
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/stats-light.svg" />
-  <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/stats-dark.svg" width="100%" alt="Daily GitHub snapshot: calendar contributions, owned public repositories, followers, and received stars." />
-</picture>
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/languages-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/languages-light.svg" />
-  <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/languages-dark.svg" width="100%" alt="Top languages by source bytes in owned public non-fork repositories; not a measure of proficiency." />
-</picture>
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/streak-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/streak-light.svg" />
-  <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/streak-dark.svg" width="100%" alt="Current and longest contribution streak within the displayed one-year calendar window." />
-</picture>
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/activity-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/activity-light.svg" />
-  <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/activity-dark.svg" width="100%" alt="Animated activity graph showing actual daily contribution counts for the last 90 days." />
-</picture>
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/summary-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/summary-light.svg" />
-  <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/summary-dark.svg" width="100%" alt="Contribution summary: commits, pull requests, issues, and reviews during the displayed calendar window." />
-</picture>
-
-<p>
-  <sub>Generated daily from GitHub APIs. Repository totals exclude forks and private repositories. Calendar counts reflect what GitHub exposes for this profile. Streaks use calendar dates and ignore an unfinished, inactive current day. No rankings, invented trophies, or estimated coding hours.</sub>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&theme=transparent&title_color=d4cebd&text_color=a39f8d&icon_color=d4cebd&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&theme=transparent&title_color=d4cebd&text_color=a39f8d&hide_border=true" alt="Top Languages"/>
 </p>
 
-[Native GitHub activity →](https://github.com/gurvindersingh-web?tab=overview) · [Refresh history →](https://github.com/gurvindersingh-web/gurvindersingh-web/actions/workflows/profile.yml)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gurvindersingh-web&hide_border=true&background=00000000&stroke=2a2925&ring=d4cebd&fire=d4cebd&currStreakNum=eae6df&sideNums=eae6df&currStreakLabel=a39f8d&sideLabels=a39f8d&dates=666459" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yoshi389111/github-profile-3d-contrib" title="How this 3D contribution graph is generated">
+    <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D view of my GitHub contributions"/>
+  </a>
+</p>
+
 
 ## 06 / Contribution trail
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/generated/snake-dark.svg" width="100%" alt="Animated snake traversing Gurvinder Singh's GitHub contribution calendar." />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-custom.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-custom.svg"/>
+  </picture>
+</p>
 
-[View the original contribution calendar →](https://github.com/gurvindersingh-web)
 
-## 07 / On the workbench
-
-<img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/building.svg" width="100%" alt="Current focus: network analysis, automation pipelines, and Linux tooling. Animated scan is decorative, not live progress." />
-
-### Latest public commits
-
-<!-- RECENT:START -->
-Recent commits appear here after the first successful daily refresh. [Browse public repositories →](https://github.com/gurvindersingh-web?tab=repositories)
-<!-- RECENT:END -->
-
-<details>
-<summary>Rendering and data notes</summary>
-
-- Animation is confined to repository-hosted SVG images.
-- Dark presentation panels intentionally remain charcoal in both modes; telemetry and snake images have explicit light variants.
-- SVGs use local monospace fallbacks; GitHub cannot guarantee JetBrains Mono or Fira Code.
-- If an update fails, the last committed images remain available.
-- Links and Markdown summaries remain usable if images fail to load.
-- The activity graph animates its trace, not its underlying contribution counts.
-
-</details>
-
-<img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/divider.svg" width="100%" alt="Charcoal and khaki section divider." />
-
-## 08 / Connect
+## 07 / Connect
 
 **Have an API to ship, a workflow to automate, or a Linux problem to untangle?**
 
@@ -215,6 +187,6 @@ Recent commits appear here after the first successful daily refresh. [Browse pub
 
 <sub>gurvindersingh.828384@gmail.com · Based in India · Open to opportunities</sub>
 
-<p>
-  <img src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/main/assets/footer.svg" width="100%" alt="apkx — interfaces, packets, processes. Closing charcoal and khaki wave." />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d4cebd,40:666459,70:2a2925,100:080808&height=120&section=footer&animation=twinkling&reversal=false" alt="Animated footer wave"/>
 </p>
