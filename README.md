@@ -1,287 +1,146 @@
+<!-- HEADER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:2a2925,70:666459,100:d4cebd&height=220&section=header&text=Gurvinder%20Singh&fontSize=52&fontColor=d4cebd&animation=twinkling&desc=Full-Stack+Developer+%C2%B7+Linux+Enthusiast+%C2%B7+Automation+Engineer&descSize=16&descAlignY=62&descAlign=50&fontAlignY=38" alt="Gurvinder Singh — Full-Stack Developer, Linux Enthusiast, Automation Engineer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:2a2925,70:666459,100:d4cebd&height=220&section=header&text=Gurvinder%20Singh&fontSize=52&fontColor=d4cebd&animation=twinkling&desc=Full-Stack%20Developer%20%C2%B7%20Linux%20Enthusiast%20%C2%B7%20Automation%20Engineer&descSize=16&descAlignY=62&fontAlignY=38" alt="Header"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/gurvindersingh-web"><img src="https://komarev.com/ghpvc/?username=gurvindersingh-web&color=d4cebd&style=flat-square&label=Profile+Views" alt="Profile Views"/></a>
-  &nbsp;
-  <a href="https://github.com/gurvindersingh-web?tab=followers"><img src="https://img.shields.io/github/followers/gurvindersingh-web?style=flat-square&color=a39f8d&label=Followers&logo=github&logoColor=white&labelColor=1e1e1e" alt="GitHub Followers"/></a>
-  &nbsp;
-  <a href="https://github.com/gurvindersingh-web"><img src="https://img.shields.io/github/stars/gurvindersingh-web?style=flat-square&color=736f62&label=Stars+Earned&logo=github&logoColor=white&labelColor=1e1e1e" alt="GitHub Stars"/></a>
+  <a href="https://github.com/gurvindersingh-web"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=D4CEBD&center=true&vCenter=true&repeat=true&width=640&height=50&lines=Full-Stack+Developer+%7C+React+19+%2B+Spring+Boot;Linux+Terminal+Dweller+%7C+Arch+%2B+Hyprland;Automation+%26+eBPF+Engineer;Network+Security+%7C+WiFi+Defense+AI;Breaking+Things.+Fixing+Things.+Shipping+Things." alt="Typing"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/gurvindersingh-web"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=D4CEBD&center=true&vCenter=true&repeat=true&width=620&height=50&lines=Full-Stack+Developer+%7C+React+19+%2B+Spring+Boot;Linux+Terminal+Dweller+%7C+Arch+%2B+Hyprland;Automation+%26+eBPF+Engineer;Network+Security+%7C+WiFi+Defense+AI;Breaking+Things.+Fixing+Things.+Shipping+Things." alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=D4CEBD&center=true&vCenter=true&repeat=true&width=435&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Divider"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=D4CEBD&center=true&vCenter=true&repeat=true&width=435&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Animated Divider"/>
+  <img src="https://komarev.com/ghpvc/?username=gurvindersingh-web&color=d4cebd&style=for-the-badge&label=PROFILE+VIEWS" alt="Views"/>
+  <img src="https://img.shields.io/github/followers/gurvindersingh-web?style=for-the-badge&color=a39f8d&label=FOLLOWERS&logo=github&logoColor=white&labelColor=1e1e1e" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/gurvindersingh-web?style=for-the-badge&color=736f62&label=STARS&logo=github&logoColor=white&labelColor=1e1e1e" alt="Stars"/>
+  <img src="https://img.shields.io/github/repos/gurvindersingh-web?style=for-the-badge&color=666459&label=REPOS&logo=github&logoColor=white&labelColor=1e1e1e" alt="Repos"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-4ade80?style=for-the-badge&labelColor=1e1e1e" alt="Status"/>
+</p>
+
+<p align="center">
+  <a href="https://gurvinders-folio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-d4cebd?style=for-the-badge&logo=vercel&logoColor=1e1e1e" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/gurvinder-singh-01web"><img src="https://img.shields.io/badge/LinkedIn-a39f8d?style=for-the-badge&logo=linkedin&logoColor=1e1e1e" alt="LinkedIn"/></a>
+  <a href="https://github.com/gurvindersingh-web"><img src="https://img.shields.io/badge/GitHub-736f62?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:gurvindersingh.828384@gmail.com"><img src="https://img.shields.io/badge/Gmail-666459?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
 
-## About Me
+## <img src="https://api.iconify.design/lucide:user.svg?color=%23d4cebd" width="24" height="24" align="center" alt=""/> About
 
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <p>I build full-stack products, developer tools, and automation. My work spans React interfaces, Spring Boot and FastAPI services, Linux systems, and network security.</p>
-      <p>I like turning hard-to-answer questions into practical software, from real-time Wi-Fi threat analysis to interactive operating-systems visualizers.</p>
-      <br/>
-      <p><strong>Current Focus Areas:</strong></p>
-      <ul>
-        <li>Full-stack product builds — React 19 frontends over Spring Boot / FastAPI backends</li>
-        <li>Applied network security — real-time 802.11 traffic analysis and AI-assisted threat classification</li>
-        <li>IoT + edge automation — ESP32-class devices talking to local inference pipelines</li>
-        <li>Workflow automation — n8n / Cloudflare Tunnel wiring between local services and the cloud</li>
-      </ul>
+    <td width="60%" valign="top">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=600&color=D4CEBD&width=480&lines=%3E+whoami+%E2%86%92+apkx;%3E+role+%E2%86%92+Full-Stack+%2B+Automation;%3E+edu+%E2%86%92+B.Tech+CSE+%40+LPU;%3E+os+%E2%86%92+Arch+Linux+%2B+Hyprland;%3E+status+%E2%86%92+shipping" alt="Terminal"/>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="profile.png" width="180" alt="Profile Avatar" style="border-radius: 50%"/>
-      <br/><br/>
-      <a href="https://github.com/gurvindersingh-web"><img src="https://img.shields.io/badge/Status-Open+to+Opportunities-4ade80?style=flat-square&labelColor=1e1e1e" alt="Open to Opportunities"/></a>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github-profile-trophy.vercel.app/?username=gurvindersingh-web&theme=onedark&no-frame=true&no-bg=true&column=2&row=1&margin-w=8" alt="Trophies"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## Tech Arsenal
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <strong>Languages & Core</strong><br/>
-        <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,bash,html,css&perline=8" alt="Languages"/><br/><br/>
-        <strong>Systems & Infrastructure</strong><br/>
-        <img src="https://skillicons.dev/icons?i=linux,arch,docker,git,github,nginx,cloudflare,raspberrypi&perline=8" alt="Systems"/>
-      </td>
-      <td width="50%" valign="top">
-        <strong>Backend & Databases</strong><br/>
-        <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,postgresql,mysql,mongodb,redis,firebase&perline=8" alt="Backend"/><br/><br/>
-        <strong>Frontend & DevOps</strong><br/>
-        <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,threejs,figma,githubactions,ansible&perline=8" alt="Frontend & DevOps"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## Featured Projects
-
-### Flagship — WiFi Deauthentication Attack Defender & Analyser
-
-<table width="100%">
-  <tr>
-    <td>
-      <p><em>AI-powered 802.11 deauthentication attack detection system.</em></p>
-      <p>A 7-signal heuristic engine with EMA-based adaptive baselines flags deauth floods in real time; NVIDIA NIM handles AI-based classification of suspicious patterns. FastAPI exposes REST + WebSocket endpoints to a React 18 dashboard, the whole pipeline runs in Docker Compose with NET_ADMIN/NET_RAW capabilities, and n8n Cloud (via Cloudflare Tunnel) automates the alerting workflow from a local capture box out to the internet.</p>
-      <p>
-        <a href="https://github.com/gurvindersingh-web/Wifi-deauth-analyser-ai">
-          <img src="https://img.shields.io/badge/Repo-Wifi--deauth--analyser--ai-d4cebd?style=flat-square&logo=github&labelColor=1e1e1e" alt="Repository"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/gurvindersingh-web/Wifi-deauth-analyser-ai">
-          <img src="https://img.shields.io/badge/7--Signal-Heuristic+Engine-a39f8d?style=flat-square&labelColor=1e1e1e" alt="7-Signal Heuristic Engine"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/gurvindersingh-web/Wifi-deauth-analyser-ai">
-          <img src="https://img.shields.io/badge/NVIDIA-NIM+AI-736f62?style=flat-square&labelColor=1e1e1e" alt="NVIDIA NIM AI"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### Project Grid
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Dynamic Memory Management Visualizer</h3>
-      <p><em>Explore how operating systems manage memory in real-time.</em></p>
-      <ul>
-        <li>Visualizes <strong>FIFO, LRU, and Optimal</strong> page replacement algorithms with fluid, real-time animations.</li>
-        <li>Simulates TLB (Translation Lookaside Buffer) lookups and working set tracking.</li>
-        <li>Provides interactive Belady's anomaly detection to explore OS paging pitfalls.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/gurvindersingh-web/Dynamic-Memory-Management">
-          <img src="https://img.shields.io/badge/Repo-Dynamic--Memory--Management-d4cebd?style=flat-square&logo=github&labelColor=1e1e1e" alt="Repository"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Spatiotemporal Climate Anomaly Detection AI</h3>
-      <p><em>Real-time meteorological anomaly detection & forecasting for South Asia.</em></p>
-      <ul>
-        <li>Monitors meteorological variables across a <strong>0.25° geographic grid</strong> (5°N–40°N, 60°E–100°E).</li>
-        <li>Built on React/Vite + Leaflet with a unified map-and-search interface; anomaly scoring uses Open-Meteo data and z-score detection.</li>
-        <li>Python backend replaced with a direct n8n webhook integration.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/gurvindersingh-web/Spatiotemporal-climate-anomaly-detection-AI">
-          <img src="https://img.shields.io/badge/Repo-Climate--Anomaly--Detection-a39f8d?style=flat-square&logo=github&labelColor=1e1e1e" alt="Repository"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>OS Process Workload Analyzer</h3>
-      <p><em>Robust OS performance testing and stress simulation toolkit.</em></p>
-      <ul>
-        <li>Simulates CPU, memory, and disk stress with custom configurable load patterns.</li>
-        <li>Tracks real-time system stability metrics with safe resource handling thresholds.</li>
-        <li>Identifies performance bottlenecks and checks OS Scheduler efficiency under pressure.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/gurvindersingh-web/OS-process-analizer">
-          <img src="https://img.shields.io/badge/Repo-OS--Process--Analyzer-736f62?style=flat-square&logo=github&labelColor=1e1e1e" alt="Repository"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>DevLancr — Freelance Marketplace</h3>
-      <p><em>Full-stack freelance marketplace with a dual Client/Freelancer UI toggle.</em></p>
-      <ul>
-        <li>React 19 + GSAP + Three.js/Spline on the frontend for immersive UI.</li>
-        <li>Java Spring Boot with JWT auth and WebSockets on the backend.</li>
-        <li>Real-time messaging and project updates between clients and freelancers.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/gurvindersingh-web/devlancr">
-          <img src="https://img.shields.io/badge/Repo-DevLancr-666459?style=flat-square&logo=github&labelColor=1e1e1e" alt="Repository"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>SCIES — System Call Interface for Enhanced Security</h3>
-      <p><em>Kernel syscall pipeline simulator for security education.</em></p>
-      <ul>
-        <li>Models a 4-stage <strong>INIT → AUTHN → ACL → EXEC</strong> flow with configurable ACLs.</li>
-        <li>Scripted attack scenarios and full audit logging for analysis.</li>
-        <li>Built with React 19 + Vite, includes teaching notes for classroom demos of syscall-level security concepts.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/gurvindersingh-web/systm-security">
-          <img src="https://img.shields.io/badge/Repo-SCIES--Security-d4cebd?style=flat-square&logo=github&labelColor=1e1e1e" alt="Repository"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Arcane Kingdom — Turn-Based RPG Battle Engine</h3>
-      <p><em>Console-based RPG battle engine inspired by fantasy anime combat.</em></p>
-      <ul>
-        <li>Built in Java — players become Magic Knights, wield grimoires, and master elemental spells.</li>
-        <li>Strategic turn-based combat with transformations and squad-based adventures.</li>
-        <li>Increasingly challenging enemies with configurable difficulty scaling.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/gurvindersingh-web/Turn-base-text-RPG-battle-engine">
-          <img src="https://img.shields.io/badge/Repo-RPG--Battle--Engine-a39f8d?style=flat-square&logo=github&labelColor=1e1e1e" alt="Repository"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Currently Exploring
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23d4cebd" width="24" height="24" align="center" alt=""/> Tech Arsenal
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=D4CEBD&center=true&vCenter=true&repeat=true&width=500&lines=Rust+%E2%86%92+Systems+Programming;Kubernetes+%E2%86%92+Container+Orchestration;LLM+Fine--tuning+%E2%86%92+Custom+Model+Adaptation;eBPF+%E2%86%92+Kernel--space+Network+Monitoring" alt="Exploring Typing SVG" />
-</p>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <img src="https://img.shields.io/badge/Rust-Systems+Programming-d4cebd?style=flat-square&labelColor=1e1e1e" alt="Rust"/>
-      <br/><sub>Kernel-level performance & safety</sub>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://img.shields.io/badge/Kubernetes-Orchestration-a39f8d?style=flat-square&labelColor=1e1e1e" alt="Kubernetes"/>
-      <br/><sub>Container cluster management</sub>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://img.shields.io/badge/LLM-Fine--tuning-736f62?style=flat-square&labelColor=1e1e1e" alt="LLMs"/>
-      <br/><sub>Custom model adaptation</sub>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://img.shields.io/badge/eBPF-Network+Monitoring-666459?style=flat-square&labelColor=1e1e1e" alt="eBPF"/>
-      <br/><sub>Kernel-space packet analysis</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## Git Metrics & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&title_color=d4cebd&text_color=eae6df&icon_color=a39f8d&bg_color=080808&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&title_color=d4cebd&text_color=eae6df&bg_color=080808&hide_border=true" alt="Top Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,bash,html,css&perline=8" alt="Languages"/><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,threejs,figma,spring,nodejs&perline=8" alt="Frontend/Backend"/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,mysql,mongodb,redis,firebase,linux,arch&perline=8" alt="Data/OS"/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,cloudflare,githubactions,ansible,raspberrypi&perline=8" alt="DevOps"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gurvindersingh-web&hide_border=true&background=080808&stroke=2a2925&ring=d4cebd&fire=d4cebd&currStreakNum=eae6df&sideNums=eae6df&currStreakLabel=a39f8d&sideLabels=a39f8d&dates=666459" alt="GitHub Streak Stats"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=D4CEBD&center=true&vCenter=true&repeat=true&width=500&lines=Rust+%E2%86%92+Systems+Programming;Kubernetes+%E2%86%92+Container+Orchestration;LLM+Fine--tuning+%E2%86%92+Custom+Model+Adaptation;eBPF+%E2%86%92+Kernel--space+Network+Monitoring" alt="Exploring"/>
 </p>
 
 ---
 
-## 3D Contribution Activity
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23d4cebd" width="24" height="24" align="center" alt=""/> Featured Project
 
 <p align="center">
-  <a href="https://github.com/yoshi389111/github-profile-3d-contrib" title="How this 3D contribution graph is generated">
-    <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D view of my GitHub contributions"/>
+  <a href="https://github.com/gurvindersingh-web/Wifi-deauth-analyser-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=Wifi-deauth-analyser-ai&theme=dark&bg_color=080808&title_color=d4cebd&text_color=eae6df&icon_color=a39f8d&border_color=2a2925&show_owner=false" alt="WiFi Deauth Analyser"/>
   </a>
 </p>
 
-<p align="center"><sub>Refreshed daily from GitHub contribution data with a scheduled GitHub Actions workflow.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/7--Signal-Heuristic_Engine-d4cebd?style=for-the-badge&labelColor=1e1e1e" alt="Heuristic"/>
+  <img src="https://img.shields.io/badge/NVIDIA-NIM_AI-a39f8d?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1e1e1e" alt="NIM"/>
+  <img src="https://img.shields.io/badge/FastAPI-REST_%2B_WS-736f62?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1e1e1e" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-Compose-666459?style=for-the-badge&logo=docker&logoColor=white&labelColor=1e1e1e" alt="Docker"/>
+  <img src="https://img.shields.io/badge/n8n-Cloudflare_Tunnel-d4cebd?style=for-the-badge&labelColor=1e1e1e" alt="n8n"/>
+</p>
 
 ---
 
-## Animated Contribution Snake
+## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%23d4cebd" width="24" height="24" align="center" alt=""/> Projects
+
+<p align="center">
+  <a href="https://github.com/gurvindersingh-web/devlancr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=devlancr&theme=dark&bg_color=080808&title_color=d4cebd&text_color=eae6df&icon_color=a39f8d&border_color=2a2925&show_owner=false" alt="DevLancr"/></a>
+  <a href="https://github.com/gurvindersingh-web/Spatiotemporal-climate-anomaly-detection-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=Spatiotemporal-climate-anomaly-detection-AI&theme=dark&bg_color=080808&title_color=d4cebd&text_color=eae6df&icon_color=a39f8d&border_color=2a2925&show_owner=false" alt="Climate Anomaly"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/gurvindersingh-web/systm-security"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=systm-security&theme=dark&bg_color=080808&title_color=d4cebd&text_color=eae6df&icon_color=a39f8d&border_color=2a2925&show_owner=false" alt="SCIES"/></a>
+  <a href="https://github.com/gurvindersingh-web/Dynamic-Memory-Management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=Dynamic-Memory-Management&theme=dark&bg_color=080808&title_color=d4cebd&text_color=eae6df&icon_color=a39f8d&border_color=2a2925&show_owner=false" alt="Memory Mgmt"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/gurvindersingh-web/OS-process-analizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=OS-process-analizer&theme=dark&bg_color=080808&title_color=d4cebd&text_color=eae6df&icon_color=a39f8d&border_color=2a2925&show_owner=false" alt="OS Analyzer"/></a>
+  <a href="https://github.com/gurvindersingh-web/Turn-base-text-RPG-battle-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=Turn-base-text-RPG-battle-engine&theme=dark&bg_color=080808&title_color=d4cebd&text_color=eae6df&icon_color=a39f8d&border_color=2a2925&show_owner=false" alt="RPG Engine"/></a>
+</p>
+
+---
+
+## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23d4cebd" width="24" height="24" align="center" alt=""/> Git Metrics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&hide_border=true&bg_color=080808&title_color=d4cebd&text_color=eae6df&icon_color=a39f8d&rank_icon=github&include_all_commits=true&cache_seconds=21600" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&hide_border=true&bg_color=080808&title_color=d4cebd&text_color=eae6df&langs_count=8&cache_seconds=21600" alt="Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gurvindersingh-web&hide_border=true&background=080808&stroke=2a2925&ring=d4cebd&fire=d4cebd&currStreakNum=eae6df&sideNums=eae6df&currStreakLabel=a39f8d&sideLabels=a39f8d&dates=666459&card_width=500" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&bg_color=080808&color=d4cebd&line=a39f8d&point=eae6df&area=true&area_color=666459&hide_border=true&radius=8&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurvindersingh-web&theme=dracula" alt="Profile Details" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurvindersingh-web&theme=dracula" alt="Repos per Language" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurvindersingh-web&theme=dracula" alt="Commits per Language" height="170"/>
+</p>
+
+---
+
+## <img src="https://api.iconify.design/lucide:git-commit-horizontal.svg?color=%23d4cebd" width="24" height="24" align="center" alt=""/> Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-custom.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-custom.svg"/>
+    <img alt="Snake" src="https://raw.githubusercontent.com/gurvindersingh-web/gurvindersingh-web/output/github-contribution-grid-snake-custom.svg"/>
   </picture>
 </p>
 
 ---
 
-## Connect & Collaborate
+## <img src="https://api.iconify.design/lucide:mail.svg?color=%23d4cebd" width="24" height="24" align="center" alt=""/> Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gurvinder-singh-01web">
-    <img src="https://img.shields.io/badge/LinkedIn-d4cebd?style=for-the-badge&logo=linkedin&logoColor=1e1e1e" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/gurvindersingh-web">
-    <img src="https://img.shields.io/badge/GitHub-a39f8d?style=for-the-badge&logo=github&logoColor=1e1e1e" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:gurvindersingh.828384@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-736f62?style=for-the-badge&logo=gmail&logoColor=1e1e1e" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://gurvinders-folio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-666459?style=for-the-badge&logo=vercel&logoColor=d4cebd" alt="Portfolio"/>
-  </a>
+  <a href="https://www.linkedin.com/in/gurvinder-singh-01web"><img src="https://img.shields.io/badge/LinkedIn-d4cebd?style=for-the-badge&logo=linkedin&logoColor=1e1e1e" alt="LinkedIn"/></a>
+  <a href="https://github.com/gurvindersingh-web"><img src="https://img.shields.io/badge/GitHub-a39f8d?style=for-the-badge&logo=github&logoColor=1e1e1e" alt="GitHub"/></a>
+  <a href="mailto:gurvindersingh.828384@gmail.com"><img src="https://img.shields.io/badge/Gmail-736f62?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://gurvinders-folio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-666459?style=for-the-badge&logo=vercel&logoColor=d4cebd" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=D4CEBD&center=true&vCenter=true&repeat=true&width=500&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22" alt="Quote Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=D4CEBD&center=true&vCenter=true&repeat=true&width=500&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22" alt="Quote"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d4cebd,40:666459,70:2a2925,100:080808&height=120&section=footer&animation=twinkling&reversal=false" alt="Animated footer wave"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d4cebd,40:666459,70:2a2925,100:080808&height=120&section=footer&animation=twinkling" alt="Footer"/>
 </p>
