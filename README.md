@@ -25,22 +25,6 @@
   <a href="https://github.com/gurvindersingh-web"><img src="https://img.shields.io/badge/GitHub-736f62?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:gurvindersingh.828384@gmail.com"><img src="https://img.shields.io/badge/Gmail-666459?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
-
----
-
-## <img src="https://api.iconify.design/lucide:user.svg?color=%23d4cebd" width="24" height="24" align="center" alt=""/> About
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=600&color=D4CEBD&width=480&lines=%3E+whoami+%E2%86%92+apkx;%3E+role+%E2%86%92+Full-Stack+%2B+Automation;%3E+edu+%E2%86%92+B.Tech+CSE+%40+LPU;%3E+os+%E2%86%92+Arch+Linux+%2B+Hyprland;%3E+status+%E2%86%92+shipping" alt="Terminal"/>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github-profile-trophy.vercel.app/?username=gurvindersingh-web&theme=onedark&no-frame=true&no-bg=true&column=2&row=1&margin-w=8" alt="Trophies"/>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23d4cebd" width="24" height="24" align="center" alt=""/> Tech Arsenal
