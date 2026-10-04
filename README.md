@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gurvindersingh-web&color=d4cebd&style=for-the-badge&label=PROFILE+VIEWS" alt="Views"/>
   <img src="https://img.shields.io/github/followers/gurvindersingh-web?style=for-the-badge&color=a39f8d&label=FOLLOWERS&logo=github&logoColor=white&labelColor=1e1e1e" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/gurvindersingh-web?style=for-the-badge&color=736f62&label=STARS&logo=github&logoColor=white&labelColor=1e1e1e" alt="Stars"/>
   <img src="https://img.shields.io/github/repos/gurvindersingh-web?style=for-the-badge&color=666459&label=REPOS&logo=github&logoColor=white&labelColor=1e1e1e" alt="Repos"/>
@@ -26,22 +25,6 @@
   <a href="mailto:gurvindersingh.828384@gmail.com"><img src="https://img.shields.io/badge/Gmail-666459?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
----
-
-## <img src="https://api.iconify.design/lucide:user.svg?color=%23d4cebd" width="24" height="24" align="center" alt=""/> About
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=600&color=D4CEBD&width=480&lines=%3E+whoami+%E2%86%92+apkx;%3E+role+%E2%86%92+Full-Stack+%2B+Automation;%3E+edu+%E2%86%92+B.Tech+CSE+%40+LPU;%3E+os+%E2%86%92+Arch+Linux+%2B+Hyprland;%3E+status+%E2%86%92+shipping" alt="Terminal"/>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github-profile-trophy.vercel.app/?username=gurvindersingh-web&theme=onedark&no-frame=true&no-bg=true&column=2&row=1&margin-w=8" alt="Trophies"/>
-    </td>
-  </tr>
-</table>
-
----
 
 ## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23d4cebd" width="24" height="24" align="center" alt=""/> Tech Arsenal
 
@@ -104,9 +87,6 @@
   <img src="https://streak-stats.demolab.com?user=gurvindersingh-web&hide_border=true&background=080808&stroke=2a2925&ring=d4cebd&fire=d4cebd&currStreakNum=eae6df&sideNums=eae6df&currStreakLabel=a39f8d&sideLabels=a39f8d&dates=666459&card_width=500" alt="Streak"/>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&bg_color=080808&color=d4cebd&line=a39f8d&point=eae6df&area=true&area_color=666459&hide_border=true&radius=8&custom_title=Contribution%20Graph" alt="Activity Graph"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurvindersingh-web&theme=dracula" alt="Profile Details" height="170"/>
