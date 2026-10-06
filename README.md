@@ -124,3 +124,4 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d4cebd,40:666459,70:2a2925,100:080808&height=120&section=footer&animation=twinkling" alt="Footer"/>
 </p>
+
