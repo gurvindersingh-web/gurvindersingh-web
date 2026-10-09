@@ -26,6 +26,10 @@
 <!-- ABOUT -->
 <h2 align="center"><img src="https://api.iconify.design/lucide:terminal.svg?color=%23d4cebd" width="24" height="24" align="center" alt=""/> whoami</h2>
 
+<p align="center">
+  <img src="about.png" alt="About me"/>
+</p>
+
 ```bash
 apkx@arch ~ $ cat about.json
 {
