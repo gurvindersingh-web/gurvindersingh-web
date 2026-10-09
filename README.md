@@ -26,9 +26,6 @@
 <!-- ABOUT -->
 <h2 align="center"><img src="https://api.iconify.design/lucide:terminal.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> whoami</h2>
 
-<p align="center">
-  <img src="about.png" alt="About me"/>
-</p>
 
 ```bash
 apkx@arch ~ $ cat about.json
@@ -147,14 +144,6 @@ apkx@arch ~ $ _
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gurvindersingh-web&hide_border=true&background=0f172a&stroke=1e293b&ring=60a5fa&fire=60a5fa&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=334155&card_width=500" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gurvindersingh-web&bg_color=0f172a&color=60a5fa&line=3b82f6&point=f8fafc&area=true&area_color=334155&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gurvindersingh-web&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </p>
 
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:60a5fa,100:0f172a&height=2" alt=""/>
