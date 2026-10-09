@@ -24,7 +24,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-custom.svg?color_snake=#60a5fa&color_dots=#1e293b,#334155,#475569,#3b82f6,#60a5fa
+            dist/github-contribution-grid-snake-custom.svg?color_snake=60a5fa&color_dots=#1e293b,#334155,#475569,#3b82f6,#60a5fa
 
       - name: Slow down snake animation (3x slower)
         run: |
