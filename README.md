@@ -158,9 +158,7 @@ apkx@arch ~ $ _
   <a href="https://gurvinders-folio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=60a5fa" alt="Portfolio"/></a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0f172a&text_color=f8fafc&border_color=1e293b" alt="Quote"/>
-</p>
+
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,40:334155,70:1e293b,100:0f172a&height=120&section=footer&animation=twinkling" alt="Footer"/>
