@@ -1,17 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,45:1e293b,75:334155,100:60a5fa&height=240&section=header&text=Gurvinder%20Singh&fontSize=56&fontColor=60a5fa&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Linux%20Enthusiast%20%C2%B7%20Automation%20Engineer&descSize=16&descAlignY=64&descColor=3b82f6" alt="Header"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/gurvindersingh-web"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=680&height=50&lines=%3E+Full-Stack+Developer+%7C+React+19+%2B+Spring+Boot;%3E+Linux+Terminal+Dweller+%7C+Arch+%2B+Hyprland;%3E+Automation+%26+eBPF+Engineer;%3E+Network+Security+%7C+WiFi+Defense+AI;%3E+Breaking+Things.+Fixing+Things.+Shipping+Things." alt="Typing"/></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/gurvindersingh-web?style=for-the-badge&color=3b82f6&label=FOLLOWERS&logo=github&logoColor=white&labelColor=0f172a" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=gurvindersingh-web&style=for-the-badge&color=475569&label=PROFILE+VIEWS&labelColor=0f172a" alt="Views"/>
-  <img src="https://img.shields.io/github/commit-activity/m/gurvindersingh-web/devlancr?style=for-the-badge&color=334155&label=COMMITS%2FMO&logo=git&logoColor=white&labelColor=0f172a" alt="Commits"/>
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-4ade80?style=for-the-badge&labelColor=0f172a" alt="Status"/>
+  <img width="100%" src="assets/hero.svg" alt="Gurvinder Singh, full-stack developer and automation engineer"/>
 </p>
 
 <p align="center">
@@ -64,6 +53,13 @@ apkx@arch ~ $ _
     </td>
   </tr>
 </table>
+
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:60a5fa,100:0f172a&height=2" alt=""/>
+
+<!-- STACK MARQUEE -->
+<p align="center">
+  <img width="100%" src="assets/stack.svg" alt="Tech Stack: Solid is daily use, outlined is learning"/>
+</p>
 
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:60a5fa,100:0f172a&height=2" alt=""/>
 
