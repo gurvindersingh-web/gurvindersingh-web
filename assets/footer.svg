@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150" role="img" aria-label="End of capture: 1 packet captured, 0 packets dropped by kernel.">
+<style>
+text{font-family:'JetBrains Mono',ui-monospace,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:13px}
+.caret{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x=".5" y=".5" width="879" height="149" rx="6" fill="#121212" stroke="#2c2b27"/>
+<text x="48" y="40" fill="#8f8a7a">^C</text><text x="48" y="62" fill="#d4cebd">1 packet captured</text><text x="48" y="84" fill="#8f8a7a">1 packet received by filter</text><text x="48" y="106" fill="#8f8a7a">0 packets dropped by kernel</text><text x="48" y="138" fill="#8f8a7a">apkx@arch ~ $</text><rect class="caret" x="157.2" y="128" width="7.8" height="13" fill="#d4cebd"/>
+</svg>
