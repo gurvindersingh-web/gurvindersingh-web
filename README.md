@@ -25,8 +25,8 @@ apkx@arch ~ $ cat about.json
   "stack":    ["React 19", "Spring Boot", "Python", "Scapy", "Linux"],
   "focus":    ["scalable backends", "network security tooling", "automation"],
   "os":       "Arch + Hyprland",
-  "exploring":["Rust", "Kubernetes", "eBPF", "LLM fine-tuning"],
-  "motto":    "Breaking things. Fixing things. Shipping things."
+  "exploring":["Spring Framework"],
+  "motto":    "Fixing things. Shipping things."
 }
 apkx@arch ~ $ _
 ```
@@ -101,8 +101,6 @@ apkx@arch ~ $ _
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,kubernetes&theme=dark" alt="Exploring icons"/>
 </p>
-
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:60a5fa,100:0f172a&height=2" alt=""/>
 
 <!-- PROJECTS -->
 <h2 align="center"><img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Featured Projects</h2>
