@@ -12,10 +12,6 @@
 
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:60a5fa,100:0f172a&height=2" alt=""/>
 
-<!-- ABOUT -->
-<h2 align="center"><img src="https://api.iconify.design/lucide:terminal.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> whoami</h2>
-
-
 ```bash
 apkx@arch ~ $ cat about.json
 {
