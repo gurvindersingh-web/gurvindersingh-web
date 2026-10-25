@@ -27,25 +27,6 @@ apkx@arch ~ $ cat about.json
 apkx@arch ~ $ _
 ```
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://api.iconify.design/lucide:layout-template.svg?color=%2360a5fa" width="32" height="32" alt=""/><br/>
-      <b>Frontend</b><br/>
-      <sub>React 19 · Vite · GSAP · Tailwind<br/>Interactive, motion-rich UI</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://api.iconify.design/lucide:server.svg?color=%2360a5fa" width="32" height="32" alt=""/><br/>
-      <b>Backend</b><br/>
-      <sub>Spring Boot · FastAPI · Node<br/>Clean, production-ready APIs</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2360a5fa" width="32" height="32" alt=""/><br/>
-      <b>Security &amp; Systems</b><br/>
-      <sub>Scapy · Linux · eBPF<br/>Detection, monitoring, hardening</sub>
-    </td>
-  </tr>
-</table>
 
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:60a5fa,100:0f172a&height=2" alt=""/>
 
