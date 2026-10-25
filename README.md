@@ -57,7 +57,7 @@ apkx@arch ~ $ _
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:60a5fa,100:0f172a&height=2" alt=""/>
 
 <!-- CONTRIBUTIONS -->
-<h2 align="center"><img src="https://api.iconify.design/lucide:git-commit-horizontal.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Contribution Snake</h2>
+<!-- <h2 align="center"><img src="https://api.iconify.design/lucide:git-commit-horizontal.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Contribution Snake</h2> -->
 
 <p align="center">
   <picture>
@@ -68,7 +68,7 @@ apkx@arch ~ $ _
 </p>
 
 <!-- TECH -->
-<h2 align="center"><img src="https://api.iconify.design/lucide:wrench.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Tech Arsenal</h2>
+<!-- <h2 align="center"><img src="https://api.iconify.design/lucide:wrench.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Tech Arsenal</h2> -->
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
@@ -99,7 +99,7 @@ apkx@arch ~ $ _
 </p>
 
 <!-- PROJECTS -->
-<h2 align="center"><img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Featured Projects</h2>
+<!-- <h2 align="center"><img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Featured Projects</h2> -->
 
 <p align="center">
   <a href="https://github.com/gurvindersingh-web/devlancr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=devlancr&bg_color=0f172a&title_color=60a5fa&text_color=f8fafc&icon_color=3b82f6&border_color=1e293b&border_radius=10&show_owner=false" alt="DevLancr"/></a>
@@ -117,7 +117,7 @@ apkx@arch ~ $ _
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:60a5fa,100:0f172a&height=2" alt=""/>
 
 <!-- METRICS -->
-<h2 align="center"><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Git Metrics</h2>
+<!-- <h2 align="center"><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Git Metrics</h2> -->
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=f8fafc&icon_color=3b82f6&ring_color=60a5fa&rank_icon=github&include_all_commits=true&cache_seconds=21600" alt="Stats"/>
@@ -134,7 +134,7 @@ apkx@arch ~ $ _
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:60a5fa,100:0f172a&height=2" alt=""/>
 
 <!-- CONNECT -->
-<h2 align="center"><img src="https://api.iconify.design/lucide:mail.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Let's Connect</h2>
+<!-- <h2 align="center"><img src="https://api.iconify.design/lucide:mail.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Let's Connect</h2> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gurvinder-singh-01web"><img src="https://img.shields.io/badge/LinkedIn-60a5fa?style=for-the-badge&logo=linkedin&logoColor=0f172a" alt="LinkedIn"/></a>
