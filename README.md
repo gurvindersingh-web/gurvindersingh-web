@@ -79,31 +79,7 @@ apkx@arch ~ $ _
   <img src="https://skillicons.dev/icons?i=rust,kubernetes&theme=dark" alt="Exploring icons"/>
 </p>
 
-<!-- PROJECTS -->
-<!-- <h2 align="center"><img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Featured Projects</h2> -->
 
-<p align="center">
-  <a href="https://github.com/gurvindersingh-web/devlancr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=devlancr&bg_color=0f172a&title_color=60a5fa&text_color=f8fafc&icon_color=3b82f6&border_color=1e293b&border_radius=10&show_owner=false" alt="DevLancr"/></a>
-  <a href="https://github.com/gurvindersingh-web/Spatiotemporal-climate-anomaly-detection-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=Spatiotemporal-climate-anomaly-detection-AI&bg_color=0f172a&title_color=60a5fa&text_color=f8fafc&icon_color=3b82f6&border_color=1e293b&border_radius=10&show_owner=false" alt="Climate Anomaly"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/gurvindersingh-web/systm-security"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=systm-security&bg_color=0f172a&title_color=60a5fa&text_color=f8fafc&icon_color=3b82f6&border_color=1e293b&border_radius=10&show_owner=false" alt="SCIES"/></a>
-  <a href="https://github.com/gurvindersingh-web/Dynamic-Memory-Management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=Dynamic-Memory-Management&bg_color=0f172a&title_color=60a5fa&text_color=f8fafc&icon_color=3b82f6&border_color=1e293b&border_radius=10&show_owner=false" alt="Memory Mgmt"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/gurvindersingh-web/OS-process-analizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=OS-process-analizer&bg_color=0f172a&title_color=60a5fa&text_color=f8fafc&icon_color=3b82f6&border_color=1e293b&border_radius=10&show_owner=false" alt="OS Analyzer"/></a>
-  <a href="https://github.com/gurvindersingh-web/Turn-base-text-RPG-battle-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gurvindersingh-web&repo=Turn-base-text-RPG-battle-engine&bg_color=0f172a&title_color=60a5fa&text_color=f8fafc&icon_color=3b82f6&border_color=1e293b&border_radius=10&show_owner=false" alt="RPG Engine"/></a>
-</p>
-
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:60a5fa,100:0f172a&height=2" alt=""/>
-
-<!-- METRICS -->
-<!-- <h2 align="center"><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Git Metrics</h2> -->
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gurvindersingh-web&show_icons=true&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=f8fafc&icon_color=3b82f6&ring_color=60a5fa&rank_icon=github&include_all_commits=true&cache_seconds=21600" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvindersingh-web&layout=compact&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=f8fafc&langs_count=8&cache_seconds=21600" alt="Top languages"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gurvindersingh-web&hide_border=true&background=0f172a&stroke=1e293b&ring=60a5fa&fire=60a5fa&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=334155&card_width=500" alt="Streak"/>
