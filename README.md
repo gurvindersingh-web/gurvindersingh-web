@@ -75,9 +75,7 @@ apkx@arch ~ $ _
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=520&lines=Now+exploring%3A+Rust+%E2%86%92+Systems+Programming;Now+exploring%3A+Kubernetes+%E2%86%92+Orchestration;Now+exploring%3A+LLM+Fine-tuning+%E2%86%92+Custom+Models;Now+exploring%3A+eBPF+%E2%86%92+Kernel-space+Monitoring" alt="Exploring"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,kubernetes&theme=dark" alt="Exploring icons"/>
-</p>
+
 
 
 
