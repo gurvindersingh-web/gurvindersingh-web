@@ -48,28 +48,7 @@ apkx@arch ~ $ _
   </picture>
 </p>
 
-<!-- TECH -->
-<!-- <h2 align="center"><img src="https://api.iconify.design/lucide:wrench.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Tech Arsenal</h2> -->
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" />
-</div>
-
-<br>
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" />
-  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="50" />
-</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=520&lines=Now+exploring%3A+Rust+%E2%86%92+Systems+Programming;Now+exploring%3A+Kubernetes+%E2%86%92+Orchestration;Now+exploring%3A+LLM+Fine-tuning+%E2%86%92+Custom+Models;Now+exploring%3A+eBPF+%E2%86%92+Kernel-space+Monitoring" alt="Exploring"/>
