@@ -71,7 +71,7 @@ apkx@arch ~ $ _
 <h2 align="center">Omarchy Plugin Contributions</h2>
 
 <p align="center">
-  <a href="https://github.com/omacom/omarchy-plugin-marketplace">omarchy-plugin-marketplace</a> · 2 listed · 1 in review
+  <a href="https://github.com/omacom/omarchy-plugin-marketplace"><img src="assets/omarchy-plugins-meta.png" width="398" height="17" alt="Listed on the Omarchy plugin marketplace: 2 listed, 1 in review"/></a>
 </p>
 
 <p align="center">
@@ -82,9 +82,11 @@ apkx@arch ~ $ _
 </p>
 
 <p align="center">
-  <a href="https://github.com/gurvindersingh-web/quickshellomarchy">System Stats</a> ·
-  <a href="https://github.com/gurvindersingh-web/oamlens">Zoom Lens</a> ·
-  <a href="https://github.com/gurvindersingh-web/omalation">Omarchy Translator</a>
+  <a href="https://github.com/gurvindersingh-web/quickshellomarchy"><img src="assets/omarchy-link-system-stats.png" width="140" height="30" alt="System Stats repository"/></a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/gurvindersingh-web/oamlens"><img src="assets/omarchy-link-zoom-lens.png" width="120" height="30" alt="Zoom Lens repository"/></a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/gurvindersingh-web/omalation"><img src="assets/omarchy-link-omalation.png" width="183" height="30" alt="Omarchy Translator repository"/></a>
 </p>
 
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:60a5fa,100:0f172a&height=2" alt=""/>

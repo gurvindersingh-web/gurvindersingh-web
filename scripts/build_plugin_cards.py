@@ -48,6 +48,7 @@ def font(path, size):
 
 SG_BOLD = "OTF/SpaceGrotesk-Bold.otf"
 SG_SEMI = "OTF/SpaceGrotesk-SemiBold.otf"
+SG_MED = "OTF/SpaceGrotesk-Medium.otf"
 SG_REG = "OTF/SpaceGrotesk-Regular.otf"
 MONO = "TTF/JetBrainsMonoNerdFont-Regular.ttf"
 MONO_BOLD = "TTF/JetBrainsMonoNerdFont-Bold.ttf"
@@ -124,11 +125,19 @@ def art_system_stats():
     for i, (label, value, tint) in enumerate(pills):
         x = x0 + i * (pw + gap)
         d.rounded_rectangle(
-            [x, y0, x + pw, y0 + ph], radius=14, fill="#15243c", outline="#27405f", width=2
+            [x, y0, x + pw, y0 + ph],
+            radius=14,
+            fill="#15243c",
+            outline="#27405f",
+            width=2,
         )
         d.ellipse([x + 12, y0 + 12, x + 18, y0 + 18], fill=tint)
-        d.text((x + 26, y0 + 10), label, font=font(MONO, 13), fill="#7f9cc0", anchor="lt")
-        d.text((x + 12, y0 + 28), value, font=font(MONO_BOLD, 25), fill=INK, anchor="lt")
+        d.text(
+            (x + 26, y0 + 10), label, font=font(MONO, 13), fill="#7f9cc0", anchor="lt"
+        )
+        d.text(
+            (x + 12, y0 + 28), value, font=font(MONO_BOLD, 25), fill=INK, anchor="lt"
+        )
 
     # cpu history sparkline with a soft area fill
     sx0, sx1 = 28, CARD_W - 28
@@ -136,13 +145,23 @@ def art_system_stats():
     for gy in (206, 228):
         d.line([(sx0, gy), (sx1, gy)], fill="#182741", width=1)
     pts = [
-        (0.00, 0.55), (0.10, 0.48), (0.20, 0.66), (0.30, 0.58), (0.40, 0.76),
-        (0.50, 0.52), (0.60, 0.62), (0.70, 0.44), (0.80, 0.57), (0.90, 0.40),
+        (0.00, 0.55),
+        (0.10, 0.48),
+        (0.20, 0.66),
+        (0.30, 0.58),
+        (0.40, 0.76),
+        (0.50, 0.52),
+        (0.60, 0.62),
+        (0.70, 0.44),
+        (0.80, 0.57),
+        (0.90, 0.40),
         (1.00, 0.50),
     ]
     line_pts = [(sx0 + (sx1 - sx0) * px, 250 - 48 * py) for px, py in pts]
     area = Image.new("RGBA", art.size, (0, 0, 0, 0))
-    ImageDraw.Draw(area).polygon(line_pts + [(sx1, 250), (sx0, 250)], fill=ACCENT + "26")
+    ImageDraw.Draw(area).polygon(
+        line_pts + [(sx1, 250), (sx0, 250)], fill=ACCENT + "26"
+    )
     art.alpha_composite(area)
     d.line(line_pts, fill=ACCENT, width=4, joint="curve")
     d.text((sx0, 210), "cpu load", font=font(MONO, 12), fill="#55708f", anchor="lt")
@@ -182,16 +201,36 @@ def art_zoom_lens():
     art.paste(inner, (0, 0), mask)
 
     # lens rings
-    d.ellipse([cx - r - 12, cy - r - 12, cx + r + 12, cy + r + 12], outline="#1e3a5f", width=2)
+    d.ellipse(
+        [cx - r - 12, cy - r - 12, cx + r + 12, cy + r + 12], outline="#1e3a5f", width=2
+    )
     d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=ACCENT, width=6)
-    d.ellipse([cx - r + 8, cy - r + 8, cx + r - 8, cy + r - 8], outline="#2f5f9e", width=2)
-    d.arc([cx - r + 18, cy - r + 18, cx + r - 18, cy + r - 18], 200, 320, fill="#dbeafe", width=4)
+    d.ellipse(
+        [cx - r + 8, cy - r + 8, cx + r - 8, cy + r - 8], outline="#2f5f9e", width=2
+    )
+    d.arc(
+        [cx - r + 18, cy - r + 18, cx + r - 18, cy + r - 18],
+        200,
+        320,
+        fill="#dbeafe",
+        width=4,
+    )
 
     # zoom badge
     d.rounded_rectangle(
-        [cx - 42, cy + 58, cx + 42, cy + 86], radius=7, fill="#0b1424", outline="#2f5f9e", width=2
+        [cx - 42, cy + 58, cx + 42, cy + 86],
+        radius=7,
+        fill="#0b1424",
+        outline="#2f5f9e",
+        width=2,
     )
-    d.text((cx, cy + 72), "1.75\u00d7", font=font(MONO_BOLD, 16), fill="#dbeafe", anchor="mm")
+    d.text(
+        (cx, cy + 72),
+        "1.75\u00d7",
+        font=font(MONO_BOLD, 16),
+        fill="#dbeafe",
+        anchor="mm",
+    )
 
     # crosshair ticks
     for dx, dy in ((0, -1), (0, 1), (-1, 0), (1, 0)):
@@ -201,13 +240,19 @@ def art_zoom_lens():
 
     # keycaps
     ky = 142
-    d.rounded_rectangle([338, ky, 420, ky + 40], radius=8, fill="#13223a", outline="#2f4a6d", width=2)
+    d.rounded_rectangle(
+        [338, ky, 420, ky + 40], radius=8, fill="#13223a", outline="#2f4a6d", width=2
+    )
     d.text((379, ky + 20), "SUPER", font=font(MONO, 15), fill="#c9dcf5", anchor="mm")
     d.text((430, ky + 20), "+", font=font(MONO, 18), fill=FAINT, anchor="mm")
-    d.rounded_rectangle([442, ky, 478, ky + 40], radius=8, fill="#13223a", outline="#2f4a6d", width=2)
+    d.rounded_rectangle(
+        [442, ky, 478, ky + 40], radius=8, fill="#13223a", outline="#2f4a6d", width=2
+    )
     d.text((460, ky + 20), "Z", font=font(MONO_BOLD, 16), fill=INK, anchor="mm")
     d.text((408, ky + 56), "toggle lens", font=font(MONO, 12), fill=DIM, anchor="mt")
-    d.text((408, ky + 78), "esc to close", font=font(MONO, 12), fill="#55708f", anchor="mt")
+    d.text(
+        (408, ky + 78), "esc to close", font=font(MONO, 12), fill="#55708f", anchor="mt"
+    )
     return art
 
 
@@ -380,6 +425,85 @@ def stack_image(cards):
     return im
 
 
+# ── link chips + meta caption ───────────────────────────────────────────
+def tracked_len(text, f, tracking):
+    return sum(f.getlength(ch) for ch in text) + tracking * (len(text) - 1)
+
+
+def tracked(d, x, y, text, f, fill, tracking):
+    for ch in text:
+        d.text((x, y), ch, font=f, fill=fill, anchor="lm")
+        x += f.getlength(ch) + tracking
+    return x
+
+
+def meta_caption():
+    """Small eyebrow line: marketplace name · 2 listed · 1 in review ↗"""
+    name_f = font(MONO, 24)
+    tag_f = font(MONO, 22)
+    h, pad, gap = 34, 4, 16
+    track = 1.6
+
+    name = "omarchy-plugin-marketplace"
+    listed = "2 LISTED"
+    dot = "·"
+    review = "1 IN REVIEW"
+    arrow = "\u2197"
+
+    w_name = tracked_len(name, name_f, track)
+    w_listed = tracked_len(listed, tag_f, track)
+    w_dot = tag_f.getlength(dot)
+    w_review = tracked_len(review, tag_f, track)
+    w_arrow = tag_f.getlength(arrow)
+    w = int(
+        pad * 2
+        + w_name
+        + gap
+        + 2
+        + gap
+        + w_listed
+        + 10
+        + w_dot
+        + 10
+        + w_review
+        + gap
+        + w_arrow
+    )
+
+    im = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    x = pad
+    y = h // 2
+    x = tracked(d, x, y, name, name_f, ACCENT, track)
+    x += gap
+    d.line([(x, 7), (x, h - 7)], fill="#2b4160", width=2)
+    x += 2 + gap
+    x = tracked(d, x, y, listed, tag_f, SLATE, track)
+    x += 10
+    x = tracked(d, x, y, dot, tag_f, FAINT, track)
+    x += 10
+    x = tracked(d, x, y, review, tag_f, AMBER, track)
+    x += gap
+    d.text((x, y - 1), arrow, font=tag_f, fill=FAINT, anchor="lm")
+    return im
+
+
+def link_chip(text):
+    """Borderless-looking card chip used for the repo links under the cards."""
+    f = font(SG_MED, 32)
+    icon_f = font(MONO, 28)
+    h, pad, gap, icon_w = 60, 22, 10, 26
+    w = int(pad * 2 + icon_w + gap + f.getlength(text))
+    im = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    d.rounded_rectangle(
+        [1, 1, w - 2, h - 2], radius=12, fill="#0b1220", outline="#243550", width=2
+    )
+    d.text((pad, h // 2), "\uf09b", font=icon_f, fill="#8aa0bd", anchor="lm")
+    d.text((pad + icon_w + gap, h // 2), text, font=f, fill="#dbe7f5", anchor="lm")
+    return im
+
+
 def main():
     cards = [
         card(
@@ -408,6 +532,10 @@ def main():
     for name, im in (
         ("omarchy-plugins-row.png", row_image(cards)),
         ("omarchy-plugins-stack.png", stack_image(cards)),
+        ("omarchy-plugins-meta.png", meta_caption()),
+        ("omarchy-link-system-stats.png", link_chip("System Stats")),
+        ("omarchy-link-zoom-lens.png", link_chip("Zoom Lens")),
+        ("omarchy-link-omalation.png", link_chip("Omarchy Translator")),
     ):
         path = os.path.join(OUT, name)
         im.save(path, optimize=True)
