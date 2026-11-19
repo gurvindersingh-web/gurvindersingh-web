@@ -67,6 +67,31 @@ apkx@arch ~ $ _
 
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:60a5fa,100:0f172a&height=2" alt=""/>
 
+<!-- OMARCHY PLUGINS -->
+<h2 align="center">Omarchy Plugin Contributions</h2>
+
+<p align="center">
+  <a href="https://github.com/omacom/omarchy-plugin-marketplace">omarchy-plugin-marketplace</a> · 3 contributions
+</p>
+
+```text
+omarchy-plugin-marketplace/
+├── zoom-lens.magnifier
+│   └── Zoom Lens — desktop magnifier for Hyprland
+├── gurvindersingh-web.system-stats
+│   └── System Stats — Waybar-style system stats for the Omarchy bar
+└── gurvindersingh-web.omalation
+    └── Omarchy Translator — translate selection, clipboard, or typed text (in review)
+```
+
+<p align="center">
+  <a href="https://github.com/gurvindersingh-web/oamlens">Zoom Lens</a> ·
+  <a href="https://github.com/gurvindersingh-web/quickshellomarchy">System Stats</a> ·
+  <a href="https://github.com/gurvindersingh-web/omalation">Omarchy Translator</a>
+</p>
+
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:60a5fa,100:0f172a&height=2" alt=""/>
+
 <!-- CONNECT -->
 <!-- <h2 align="center"><img src="https://api.iconify.design/lucide:mail.svg?color=%2360a5fa" width="24" height="24" align="center" alt=""/> Let's Connect</h2> -->
 
