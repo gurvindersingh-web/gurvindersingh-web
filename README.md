@@ -74,18 +74,12 @@ apkx@arch ~ $ _
   <a href="https://github.com/omacom/omarchy-plugin-marketplace">omarchy-plugin-marketplace</a> · 2 listed · 1 in review
 </p>
 
-```text
-omarchy-plugin-marketplace/
-├── gurvindersingh-web.system-stats
-│   ├── System Stats (Waybar Style) · listed 2026-08-22 · verified
-│   └── CPU, memory and storage stats for the Omarchy bar
-├── zoom-lens.magnifier
-│   ├── Zoom Lens · listed 2026-11-10
-│   └── Desktop magnifier for Hyprland, built on hyprmag
-└── gurvindersingh-web.omalation
-    ├── Omarchy Translator · submitted 2026-11-18 · in review
-    └── Translate selection, clipboard or typed text
-```
+<p align="center">
+  <picture>
+    <source media="(max-width: 700px)" srcset="assets/omarchy-plugins-stack.png" width="300" height="898" />
+    <img src="assets/omarchy-plugins-row.png" width="768" height="270" alt="Omarchy plugin contributions: System Stats — verified; Zoom Lens — listed; Omarchy Translator — in review"/>
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://github.com/gurvindersingh-web/quickshellomarchy">System Stats</a> ·
